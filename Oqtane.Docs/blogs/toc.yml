@@ -3,13 +3,13 @@
   href: index.md
 
 - name: Moving to Oqtane
-  href: move-to-oqtane/
+  href: move-to-oqtane
 
 - name: An Easily Installable Demo 
-  href: installable-demo/
+  href: installable-demo
 
 - name: Drupal and the Semantic Web Layer Cake
-  href: semweb-cake/ 
+  href: semweb-cake
 
 - name: Open Source Alternatives
   href: open-alternatives

@@ -5,6 +5,12 @@
 - name: Administration
   href: admin/
 
+- name: Development
+  href: development/
+
+- name: Examples
+  href: examples/
+
 - name: Blogs
   href: blogs/
 
