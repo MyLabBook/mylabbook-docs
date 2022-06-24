@@ -1,8 +1,13 @@
 
 - name: Overview
   href: overview/
+
 - name: Administration
   href: admin/
+
+- name: Blogs
+  href: blogs/
+
 - name: API Documentation
   href: obj/api/
   homepage: api/index.md

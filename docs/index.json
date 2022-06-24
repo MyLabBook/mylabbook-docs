@@ -1834,6 +1834,31 @@
     "title": "Enum Runtime | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
     "keywords": "Enum Runtime Namespace : Oqtane.UI Assembly : Oqtane.Client.dll Syntax [Obsolete(\"This enum is deprecated and will be removed in the upcoming major release, please use Oqtane.Shared.Runtime instead.\")] public enum Runtime Fields Name Description Server WebAssembly"
   },
+  "blogs/index.html": {
+    "href": "blogs/index.html",
+    "title": "MyLabBook Blogs | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "MyLabBook Blogs These are the blogs that go back to 2009 when we first started using an ELN for the biotech curriculum at the University of Houston. The platform first used the Drupal CMS, but we migrated to using the Oqtane platform in 2022. These blogs show the highlights of our evolution."
+  },
+  "blogs/installable-demo/index.html": {
+    "href": "blogs/installable-demo/index.html",
+    "title": "MyLabBook Blog | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "MyLabBook Blog Installable Demo"
+  },
+  "blogs/move-to-oqtane/index.html": {
+    "href": "blogs/move-to-oqtane/index.html",
+    "title": "MyLabBook Blog | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "MyLabBook Blog The Move to Oqtane"
+  },
+  "blogs/open-alternatives/index.html": {
+    "href": "blogs/open-alternatives/index.html",
+    "title": "MyLabBook Blog | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "MyLabBook Blog Open Source Alternatives"
+  },
+  "blogs/semweb-cake/index.html": {
+    "href": "blogs/semweb-cake/index.html",
+    "title": "MyLabBook Blog | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "MyLabBook Blog The Semantic Web Layer Cake"
+  },
   "index.html": {
     "href": "index.html",
     "title": "MyLabBook Beta Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
