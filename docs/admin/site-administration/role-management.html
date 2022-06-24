@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  <head>
+    <!-- Google Tag Manager - disabled temporarily, until we have the GTM code -->
+    <!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TODO-TODO-TODO');</script>-->
+    <!-- End Google Tag Manager -->
+    <!-- azing recipe embed resizer -->
+    <script src="https://cdn.azing.org/e/1/embed.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Role Management | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Role Management | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN ">
+    <meta name="generator" content="docfx 2.58.4.0">
+    
+    <link rel="shortcut icon" href="../../layout/images/favicon.png">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    <meta property="docfx:newtab" content="true">
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../layout/images/logo-header-2022-whitex50.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+                
+                <ul class="nav level1 navbar-nav">
+                      <li>
+                          <a href="../../overview/index.html" title="Overview">Overview</a>
+                      </li>
+                      <li class="active">
+                          <a href="../../admin/index.html" title="Administration">Administration</a>
+                      </li>
+                      <li>
+                          <a href="../../api/index.html" title="API Documentation">API Documentation</a>
+                      </li>
+                </ul>    </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="role-management">Role Management</h1>
+
+<p>The Role Management screen can be accessed from the appropriate icon on the <a href="../admin-navigation/admin-dashboard/html">Admin Dashboard</a> or directly from the URL <a href="https://example.com/admin/roles">https://example.com/admin/roles</a>, where you replace <a href="https://example.com">https://example.com</a> with the URL of <em>your</em> website. The Role Management screen below shows the three default security roles - - <em>Administrators</em>, <em>Host Users</em>, and <em>Registered Users</em>. </p>
+<p><img src="assets/role-management.png" alt="role-management">
+<p align="center">Role Management Screen</p></p>
+<p>These roles correspond to a <strong>Site Administrator</strong>, <strong>Host Administrator</strong>, or a <strong>Registered User</strong>, as explained below. You cannot edit or delete these roles, which is why their buttons are shown as disabled in the Role Management Screen. You can only manage the users assigned to these roles. </p>
+<h3 id="custom-security-roles">Custom Security Roles</h3>
+<p>Administrators can create a custom security role if it doesn&#39;t already exist. At the top of the Role Management Screen is the <em>Add Role</em> button. Clicking the <em>Add Role</em> button will prompt you for the addition of a new custom role with a name, description, and whether it should be automatically assigned to users. </p>
+<h3 id="how-users-are-referred-to-in-this-documentation">How Users Are Referred To in This Documentation</h3>
+<p>In order to maintain consistency and to minimize any confusion with the value used for the roles (<em>Host Users</em>, <em>Administrators</em>, and <em>Registered Users</em>), we refer in this documentation to users according to their set of permissions. The sets of permission are described below. </p>
+<ul>
+<li><strong>Host Administrator</strong> - A site user who has the <em>Host Users</em> role. The Host Administrator has the most powerful set of permissions and is meant for manging the instance of Oqtane as a whole. The Host Administrator can edit all Oqtane host settings as well as any of the site settings within the Oqtane instance and any of the pages within the Oqtane instance. The actions that a Host Administrator takes are under the Host Administration section. </li>
+<li><p><strong>Site Administrator</strong> - A site user who has the <em>Administrators</em> role. The Site Administrator can edit all of the site settings for the site where it is given the <em>Administrators</em> role. The Site Administrator can also edit any of the pages within the site where it has the <em>Administrators</em> role. The actions that a Site Administrator takes are under the Site Administration section.</p>
+</li>
+<li><p><strong>Administrators</strong> - Refers to a user who has either the Host Administrator or Site Administrator level of permissions. When setting permissions for page viewing and editing, both Host Administrators and Site Administrators are grouped together as Administrators. In this documentation, when referring to Administrators, we are referring to those with either the Host Administration or the Site Administration set of permissions. </p>
+</li>
+<li><p><strong>Registered User</strong> - Refers to a site user who has been given the <em>Registered User</em> role. By default, this role does not have any special permissions, and by default it is not automatically assigned to a new user. However, as is the case for all roles, it can be used for setting permissions for managing pages and modules. </p>
+</li>
+<li><p><strong>Content Editor</strong> - Refers to a site user who has permissions to edit the content of a given page or extend the page with a module. Note that this permission for a page can be assigned to either a custom role or to an individual user. </p>
+</li>
+</ul>
+<h3 id="assigning-and-using-security-roles">Assigning and Using Security Roles</h3>
+<p>From the <a href="./user-management.html">User Management</a> screen, an Administrator can assign a role to a user. </p>
+<p>The security roles can be used in different ways according to the needs of your website. For <a href="../pages/index.html">pages</a>, roles can determine whether a page or groups of pages can be viewed or edited. For <a href="../modules/index.html">modules</a>, a role can determine whether the module can be seen or not when adding a module to a page or whether content of a given module can be edited. In general, security roles can be used for content management, content editing, and hiding sections of your site.</p>
+<p>Security roles work in a similar way to most permissions-based systems, for example Windows. You can assign users to one or more of the default or custom security roles. You can apply a role to the management or editing of pages or modules.</p>
+<p>The screenshot below shows checkboxes for setting <a href="../pages/page-settings.html">permissions for a page</a>. Setting permissions for a module is similar. The checkboxes determine which roles can edit or view a page or module. In addition, the bottom textbox allows the user to assign permissions to a certain user. </p>
+<p><img src="assets/permissions.png" alt="permissions"></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

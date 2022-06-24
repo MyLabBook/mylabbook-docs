@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  <head>
+    <!-- Google Tag Manager - disabled temporarily, until we have the GTM code -->
+    <!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TODO-TODO-TODO');</script>-->
+    <!-- End Google Tag Manager -->
+    <!-- azing recipe embed resizer -->
+    <script src="https://cdn.azing.org/e/1/embed.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Single Page Settings | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Single Page Settings | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN ">
+    <meta name="generator" content="docfx 2.58.4.0">
+    
+    <link rel="shortcut icon" href="../../layout/images/favicon.png">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    <meta property="docfx:newtab" content="true">
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../layout/images/logo-header-2022-whitex50.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+                
+                <ul class="nav level1 navbar-nav">
+                      <li>
+                          <a href="../../overview/index.html" title="Overview">Overview</a>
+                      </li>
+                      <li class="active">
+                          <a href="../../admin/index.html" title="Administration">Administration</a>
+                      </li>
+                      <li>
+                          <a href="../../api/index.html" title="API Documentation">API Documentation</a>
+                      </li>
+                </ul>    </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="single-page-settings">Single Page Settings</h1>
+
+<p>You can configure the page settings for a given page when you create a new page or edit the page settings, for example from the Edit button in the <a href="../admin-navigation/control-panel.html">control panel</a>. </p>
+<p>The page settings include the page metadata, appearance, permissions, and theme. </p>
+<h3 id="page-metadata-and-appearance-settings">Page Metadata and Appearance Settings</h3>
+<p>The metadata and appearance settings are the default tab displayed for the single page settings, as show in the screenshot below. </p>
+<p><img src="assets/page-creation-settings-dialog.png" alt="pagecreationsettings"></p>
+<p>The metadata settings for a given page are described below. </p>
+<ul>
+<li><strong>Name</strong> - Name of the page as displayed in the menu link</li>
+<li><strong>Parent</strong> - Parent page. If there is no parent, then <site root=""> is used and name is displayed in top level of menu. If a parent is used, then the page link is a child of the parent in the menu. </site></li>
+<li><strong>Insert</strong> - Where the page link should be placed relative to other items in the menu. If the page has already been created, then this label is <strong>Move</strong> instead of <strong>Insert</strong>. </li>
+<li><strong>Navigation</strong> - Set whether the page is part of the navigation or not, i.e., whether it has a page link or not.</li>
+<li><strong>Clickable</strong> - Set whether the page link in the site navigation is enabled or disabled.</li>
+<li><strong>Url Path</strong> - Optionally enter a custom URL path to be used for this page. If this is blank, then the page name will be used.  If the page is intended to have the root path, use &#39;/&#39;.</li>
+<li><strong>Redirect</strong> - Optional URL that can be used for redirection from this page URL to the redirection URL.</li>
+</ul>
+<p>The appearance settings for a given page are available by slecting the drop-down caret to the right of the Appearance label. The fields for Appearance are described below. </p>
+<ul>
+<li><strong>Title</strong> - This is the title that will be used for the page. If this is left blank, then the page name will be used. </li>
+<li><strong>Meta</strong> - Optional meta tag values that will be displayed in the page header. The text should be entered exactly how it should appear in the page output. </li>
+<li><strong>Theme</strong> - The theme that should be used for this page. Each page can have its own theme. </li>
+<li><strong>Default Container</strong> - Select the default container for the page. </li>
+<li><strong>Icon</strong> - Optionally provide an icon class name for this page which will be displayed in the site navigation.</li>
+<li><strong>Personalizable</strong> - Select whether users will be able to personalize this page with their own content.</li>
+</ul>
+<h3 id="page-permissions">Page Permissions</h3>
+<p>The page permission settings are the second tab displayed, as show in the screenshot below. </p>
+<p><img src="assets/page-creation-permissions-dialog.png" alt="pagecreationsettings"></p>
+<p>As can be seen in the screenshot, View and Edit permissions can be set for this page using a <a href="../site-administration/role-management.html">role</a> or for a given user. </p>
+<h3 id="page-theme-settings">Page Theme Settings</h3>
+<p>The page theme settings are the third tab displayed, as show in the screenshot below. </p>
+<p><img src="assets/page-creation-themesettings-dialog.png" alt="pagecreationsettings"></p>
+<p>The theme settings for a given page are described below. </p>
+<ul>
+<li><strong>Setting Scope</strong> - Whether the setting scope is for the page or the entire site.</li>
+<li><strong>Show Login</strong> - Specify if a login option should be displayed. If the login link is not displayed, login will still be accessible from a direct URL.</li>
+<li><strong>Show Register</strong> - Specify if a register option should be displayed. If the register link is not displayed, registration will still be accessible from a direct URL. This is also dependent on the Allow Registration option in Site Settings. </li>
+<li><strong>Display Fixed Footer</strong> - Specify if a Footer pane should always be displayed in a fixed location at the bottom of the page. </li>
+</ul>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

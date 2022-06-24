@@ -1,0 +1,34 @@
+
+- name: Introduction
+  href: index.md
+
+- name: File Management
+  href: file-management.md
+
+- name: Language Management
+  href: language-management.md
+
+- name: Page Management
+  href: page-management.md
+
+- name: Profile Management
+  href: profile-management.md
+  
+- name: Recycle Bin
+  href: recycle-bin.md
+
+- name: Role Management
+  href: role-management.md
+
+- name: Site Settings
+  href: site-settings.md
+
+- name: URL Mappings
+  href: url-mappings.md
+
+- name: User Management
+  href: user-management.md
+
+- name: Visitor Management
+  href: visitor-management.md
+

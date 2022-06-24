@@ -1,0 +1,6279 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/MSI/Projects/MyLabBook/oqtane-docs/Oqtane.Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/add-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/add-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/add-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/add-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/admin-dash.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/admin-dash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/edit-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/edit-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/file-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/file-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/page-appearance.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/page-appearance.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/page-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/page-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/permissions.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/permissions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/profile-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/profile-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/pwa-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/pwa-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/recycle-bin.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/recycle-bin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/site-settings-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/site-settings-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/site-settings-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/site-settings-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/smtp-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/smtp-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/user-identity.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/user-identity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/user-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/user-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-dashboard/assets/user-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-dashboard/assets/user-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/file-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/file-management.html",
+          "hash": "o1KIUodIEpbww0qjbMoW/Zxq2+X43dqaDgQ1lBxM9fk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/index.html",
+          "hash": "GSRnW7s8x4mCiT0Swp34sMS4ZPRmXFj0d0xzjN2bkkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/page-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/page-management.html",
+          "hash": "xzeFDhjpHQaOnvC1EScw+U+BRHD7Qe8eiE4I0jJslL4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/profile-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/profile-management.html",
+          "hash": "QMKmzfTUhQwMIcR+SEO+/RbjlS9Me/nnk7c0Uusobnc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/recycle-bin.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/recycle-bin.html",
+          "hash": "1IamPUoDwu0l4eI6NWPBvNDVMn2Ky05bVYWU659UdbI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/role-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/role-management.html",
+          "hash": "vuReMW3IKcL71SI78v7Krmeo3aBAFOG6M6mpIZaeYyM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/site-settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/site-settings.html",
+          "hash": "o5TAflFrBt9brdiPPqkESenX+g1wmvJ5pJvWQIFpavQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "admin/admin-dashboard/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/toc.html",
+          "hash": "G/o+/Kf9DSGL1xwO1tIszJuI3eSZIXKehFJXzhyZqU4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-dashboard/user-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-dashboard/user-management.html",
+          "hash": "0HatGzOnYA22IWRsBz02uyIbQnUoc/1ws6tUyu6sxsQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-navigation/admin-dashboard.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/admin-dashboard.html",
+          "hash": "ktoB/Kc4/E0ryylfLXpv92SeXHL2C86MAbpHUfEs1OE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/ControlPanelDark.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/ControlPanelDark.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/ControlPanelDarkx300.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/ControlPanelDarkx300.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/admin-dash.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/admin-dash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/control-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/control-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/host-admin-dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/host-admin-dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/menu-admin.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/menu-admin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/navigation-admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/navigation-admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/assets/site-admin-dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/assets/site-admin-dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-navigation/control-panel.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/control-panel.html",
+          "hash": "vzTbbVJSDGiBTHh/amhvyVJqwQHLPnd71TbHA8uCBK4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/add-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/add-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/control-panel-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/control-panel-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/control-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/control-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/page-appearance.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/page-appearance.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/page-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/page-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/admin-navigation/control-panel/assets/permissions.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/admin-navigation/control-panel/assets/permissions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-navigation/control-panel/control-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/control-panel/control-page.html",
+          "hash": "Nsa9jHEX9b4RQe0Z+/ljp3hGtpHBkssMmmAAt1q/cRM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-navigation/control-panel/modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/control-panel/modules.html",
+          "hash": "hXOj2NVa4wT383EMB1wHy/0mnQ+CsYht1j7IZW2D/B4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "admin/admin-navigation/control-panel/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/control-panel/toc.html",
+          "hash": "yzm1jDjfRHyx9x72kc8NObVHqoExG7YjEk3jnJ/fItE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/admin-navigation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/admin-navigation/index.html",
+          "hash": "G1gdydhpYotdXSucBd6SZOlRNQdFuBpDiVEnpevon4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/assets/admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/assets/admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/assets/admin-intro-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/assets/admin-intro-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/assets/site-navigation-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/assets/site-navigation-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/add-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/add-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/control-panel-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/control-panel-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/control-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/control-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/page-appearance.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/page-appearance.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/page-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/page-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/control-panel/assets/permissions.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/control-panel/assets/permissions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/control-panel/control-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/control-panel/control-page.html",
+          "hash": "0MgSKwgma7ZW4cdzKMePsFMidSfyVgKYtxisUf4tgQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/control-panel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/control-panel/index.html",
+          "hash": "SWSuFIkzs//hH8srT57AlrVML+8v5BLuZUW4abL3H5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/control-panel/modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/control-panel/modules.html",
+          "hash": "UQ2PQM4YQ4zGHMFEGTBfuvkCs0YpIZLpQb0Ib0y9vqA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "admin/control-panel/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "admin/control-panel/toc.html",
+          "hash": "sFQZeqzuD/Z5lRGyesgQmYbqRNeaK0osK7VzocsYiTM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/edit-jobs.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/edit-jobs.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/event-function.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/event-function.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/event-level.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/event-level.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/host-admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/host-admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/module-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/module-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/site-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/site-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/sql-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/sql-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/host-administration/assets/theme-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/host-administration/assets/theme-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/event-log.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/event-log.html",
+          "hash": "rAMBHktfSrhZHnH3isROER/0P0VAtLeCtnmJ0c99mUg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/index.html",
+          "hash": "MC0aSt44SwQ90oG2Dy1dLRMoqftked9+90XEXI0aY5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/module-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/module-management.html",
+          "hash": "+jho6JX9Nl/ZrTJE4TeGcXoZjne8YMoavimwo13QYXQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/scheduled-jobs.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/scheduled-jobs.html",
+          "hash": "j6TrEH3Ca3auRhx4JSg+CHeOz2BWkWKjFTLEJj0G4H8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/site-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/site-management.html",
+          "hash": "oNcojIK4nPN7jnnXJzt+NDlur9FglqboYaE2IpFTl7M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/sql-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/sql-management.html",
+          "hash": "1ryNZH/d/bwRNvKxe0p8xsIOlMIQMLQHLQT4A/FOhN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/system-info.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/system-info.html",
+          "hash": "Rb9MgPTw+iZIQkxOCfOppXljBn/4fbmYjOC8euej8Wo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/system-update.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/system-update.html",
+          "hash": "ERPTZI6et2qn0SL2Syz+dFG8WRJ9Vh6pdQWNeb09qOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/host-administration/theme-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/host-administration/theme-management.html",
+          "hash": "nAUbq8YNVVMTFUhcQQ2rt90SAOHIzJDbKuxgO1Ufmrk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/index.html",
+          "hash": "safEO4aV9VJ5f0HM9GXaR2TuaOZJP0rqR6ABVSx0gII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/installation/assets/installation-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/installation/assets/installation-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/installation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/installation/index.html",
+          "hash": "E/8K8iOZJor5YgqXKuzm53gk6CXzOAh91WSchYrSFec="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/add-ext-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/add-ext-modules.html",
+          "hash": "VU5mnkHDDoPpqFwKLpuXlFm4Gv5L7VshSFcxUK91x4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/adding-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/adding-modules.html",
+          "hash": "koxEtR42vJJrhLN4XzfCbRI1+9t5oXx0MLZ4tmd/fvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/adding-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/adding-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/content-pane.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/content-pane.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/cp-module-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/cp-module-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/edit-my-page-plain.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/edit-my-page-plain.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/html-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/html-editor.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/installing-modules-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/installing-modules-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/installing-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/installing-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/module-admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/module-admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/moving-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/moving-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/pencil.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/pencil.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/modules/assets/site-alias-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/modules/assets/site-alias-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/creating-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/creating-modules.html",
+          "hash": "AM0+H/Ln/6jrDe71Grorz5k3XhHp7fF2k97oWgER/Vw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/default-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/default-modules.html",
+          "hash": "KTg6TrDBAA7MgyZEKWzb20XpZZ+tFPN9EdLGRWQPd0o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/htmledit-module.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/htmledit-module.html",
+          "hash": "7di0bPJ5VjoUbHMeV7vWvp6ebJmKg+wrHiHv+R6qifg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/index.html",
+          "hash": "00VtzH9j2ARH8Ku/aX/XXr1oguaX36U9HgtR1lcp2Lo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/modules/working-with-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/modules/working-with-modules.html",
+          "hash": "88VdKh03B6igiQzzN5eLh69S4t1PGiFOdZ9sS+uQhVw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/adding-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/adding-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/content-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/content-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/content-pane.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/content-pane.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/edit-my-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/edit-my-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/installing-modules-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/installing-modules-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/installing-modules.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/installing-modules.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/moving-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/moving-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/oqtane-theme-panes-left.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/oqtane-theme-panes-left.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/oqtane-theme-panes.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/oqtane-theme-panes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/page-admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/page-admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/page-creation-permissions-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/page-creation-permissions-dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/page-creation-settings-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/page-creation-settings-dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/page-creation-themesettings-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/page-creation-themesettings-dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/pencil-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/pencil-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/pages/assets/pencil.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/pages/assets/pencil.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/pages/creating-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/pages/creating-page.html",
+          "hash": "0tP+XuXyP0n1cF8ITTTgadQ1qqMRcODcy8HHakDKNig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/pages/editing-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/pages/editing-page.html",
+          "hash": "i1IV5zWq5jEBKxiU3XccbJdgl8k97Rc1ECI4cM0LYcg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/pages/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/pages/index.html",
+          "hash": "dD/OrsIH9Kqu2m/dROWhd+YweaJeBDTQCMABabiAgdQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/pages/page-settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/pages/page-settings.html",
+          "hash": "/NX1ZzvasM8zEL867273xFqTEJz3htmeHLhXyuZ0fRs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/add-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/add-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/add-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/add-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/admin-dash.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/admin-dash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/content-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/content-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/control-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/control-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/edit-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/edit-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/file-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/file-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/language-download.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/language-download.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/language-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/language-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/page-appearance.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/page-appearance.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/page-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/page-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/pencil-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/pencil-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/permissions.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/permissions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/profile-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/profile-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/pwa-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/pwa-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/recycle-bin.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/recycle-bin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/role-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/role-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-admin-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-admin-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-alias-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-alias-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-hosting-model-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-hosting-model-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-settings-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-settings-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-settings-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-settings-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/site-tenant-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/site-tenant-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/smtp-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/smtp-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/url-mappings.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/url-mappings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/user-identity.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/user-identity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/user-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/user-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/user-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/user-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "admin/site-administration/assets/visitor-management.png",
+      "output": {
+        "resource": {
+          "relative_path": "admin/site-administration/assets/visitor-management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/content-editor.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/content-editor.html",
+          "hash": "nX7lgzIKm0+9UFUEGkEFHxjMesfhbKiTKx91Ki9HYbo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/file-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/file-management.html",
+          "hash": "Q9zBP+uzqk34O5uO6e2wK+iyF2ySeoeM8PENJFEBZUU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/index.html",
+          "hash": "4DpB6KvxN+QtrEhjHQ6BjetvGxe9caNR1oMB3NOE5g8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/language-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/language-management.html",
+          "hash": "h4steVjpXyWZ7hmjKVKD8QT2hnERA2YQ0JTpEa4SyoE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/page-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/page-management.html",
+          "hash": "sLe72CysRsOYYLcgPz33n7BMGD/k2QsNVy2UmLpAa8o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/profile-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/profile-management.html",
+          "hash": "yubYKfjorM5kLK/jg/FJ0CITKtfuHr6sVzqjpx63eyQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/recycle-bin.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/recycle-bin.html",
+          "hash": "h92pUsOzcXO3e1sLPEsD7PLO2iqLTTqi0Yk6SQK7ZUk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/role-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/role-management.html",
+          "hash": "nb5NB83X4v5IjHWGo4x7LRLqU1mBYAWlc4U31RdN6sM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/site-settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/site-settings.html",
+          "hash": "N8lcZ9uawDdNdTu0CpuTd82tXaw2vYL0pnBJH/ZS5Wc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/url-mappings.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/url-mappings.html",
+          "hash": "iY709mxbBj43v/+iO2KYuNttZVZuc8rE7e6FJlF3Y8M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/user-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/user-management.html",
+          "hash": "3BJiv2b8zE8Vq4INY39mGhVqcYdATQzww++Z8lnh+UM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/user-profile.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/user-profile.html",
+          "hash": "UfJlflvUScxNczQwNZsJtSnuEutN2kD2Vrfd5B2TK/w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "admin/site-administration/visitor-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "admin/site-administration/visitor-management.html",
+          "hash": "W8+lC7oij0tSqX5zKvsEv+AqLzRdMErb9hJZJitmbKc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "admin/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "admin/toc.html",
+          "hash": "QPHG7nOJ+8ihCFeC/bsrvtjVGfkOHvYwTJbQssucxPo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "JG7ufoQqeA9w8DGwiANvfp9kvM/TRGcSiylOkfKnpi0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "UNqaS6loNEdTlPXoie1n6oWvFyy8YnFflWgcM4h+Gec="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Joqssrkn5u0OP5o4mWbdio88NPG4invuZ1tPGusuQns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/favicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/favicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-header-2022-whitex100.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-header-2022-whitex100.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-header-2022-whitex200.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-header-2022-whitex200.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-header-2022-whitex40.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-header-2022-whitex40.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-header-2022-whitex50.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-header-2022-whitex50.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-white-50.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-white-50.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo-white.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo-white.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "layout/images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/namespace-metadata.js",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/namespace-metadata.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/partials/head.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/partials/head.tmpl.partial"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/partials/li.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/partials/li.tmpl.partial"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/partials/navbar-li.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/partials/navbar-li.tmpl.partial"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/partials/toc.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/partials/toc.tmpl.partial"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/styles/main.css",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/styles/main.css"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layout/oqtane/toc.extension.js",
+      "output": {
+        "resource": {
+          "relative_path": "layout/oqtane/toc.extension.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.AliasController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.AliasController.html",
+          "hash": "DiiRnoxipdlac/Rp3co/j9Gj1BES3bq7BWAnOkD9Cyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.DatabaseController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.DatabaseController.html",
+          "hash": "VL5Et/y7KcxCB6wEVGjaPwBUw73eaKZS+OMzCpIEoTE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.FileController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.FileController.html",
+          "hash": "y63WUrpRRYiwHJknfNwQRFydr9FUEJem9aMGFcENOOY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.FolderController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.FolderController.html",
+          "hash": "7fCYaWVkYgg4pRi4YaFqi9r1DFD4kGf0Tp9vU9gfg+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.InstallationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.InstallationController.html",
+          "hash": "SrvgIvfv06Mvtz+WhCwI5R8iLXdNEddPqKzF2y2zmb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.JobController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.JobController.html",
+          "hash": "mL/ZfxVcpPbq6NKV5GYoo6I9UWMp+CuDO4Znf+8/MdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.JobLogController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.JobLogController.html",
+          "hash": "uY92m4eqt2kB2Tsf7KkGJ66yzGc7qdRqLmKhFPazwcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.LanguageController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.LanguageController.html",
+          "hash": "X5Qmm7sszesLUGEFBKuRz2m6/HIhTn4+Bto1cNv0Jfc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.LocalizationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.LocalizationController.html",
+          "hash": "Xd8c7ov5z7vovHdlJkCpmnUG7JPskgro4bMEiX9+oz0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.LogController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.LogController.html",
+          "hash": "iRNKBjSRFtzTsHCqP6//tI952kW1Xkqe4JxTITm43Bc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.ModuleController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.ModuleController.html",
+          "hash": "9Y/PsoPuduZZkHuxjsfkmpR/uWp7TVtr42kU06MCLVw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.ModuleControllerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.ModuleControllerBase.html",
+          "hash": "YbTxk4A4FKfxojpytXO9TYZ3HMfeB/5qb6436vRpC0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.ModuleDefinitionController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.ModuleDefinitionController.html",
+          "hash": "YfepjvdU2zBCkKOK2F2GQaRJ7iCXECVQJcWk4Cggeq0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.NotificationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.NotificationController.html",
+          "hash": "b7B8sJ1BjJv+1nStjskyvNdh2psP0OcfGJzqL1kjDX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.PackageController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.PackageController.html",
+          "hash": "vyWLeFFl58NQ6yKMsi5XKSfav1IYJqSStYfcCRbwn3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.PageController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.PageController.html",
+          "hash": "etSFM+5NS2cd/weulXoiTXCJ1YaDDF7Jlx0PrfDBSVU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.PageModuleController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.PageModuleController.html",
+          "hash": "+LmZM8uz3ioxfgq8ZJJ0gomGWmcI6tflvuyL6yQ6iv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.ProfileController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.ProfileController.html",
+          "hash": "fhtnvXwvRRe+2R3su22y+QA6Ulg91E+1FA5RtIRjDTU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.RoleController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.RoleController.html",
+          "hash": "tJAZBE13Yvznld8EpH4ZLtdhimx5wauFMM3iGpHHEhw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SettingController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SettingController.html",
+          "hash": "CuOxkMTXSh54vzOTt9rKFmhb9yY8Q5BL96fM1YsaasY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SiteController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SiteController.html",
+          "hash": "jj22yZZMLwFHU5IdAozhSs3JIn+gyrbuTLLAXeK5GqI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SiteTemplateController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SiteTemplateController.html",
+          "hash": "F+bLLDki0xmjDQHTi2JWPhv02LzTk1sRAhbXiOH1Al0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SqlController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SqlController.html",
+          "hash": "PctPWP12NuiP5B3ufHvBWKItFpcU+6Fn3tYsFuLFHlk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SyncController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SyncController.html",
+          "hash": "ixAIvz5vVKPnrLZc3Jp1BJtucJumQfwG0YnL4322eT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.SystemController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.SystemController.html",
+          "hash": "C2FGYaTvSbNR6uUac0U0ZqaVxmKHOziKetx8N+wccr4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.TenantController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.TenantController.html",
+          "hash": "KI4Gh7JJ3VdojM5yKhBsnFfgi1VTbZMn3TwXXePBrd4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.ThemeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.ThemeController.html",
+          "hash": "8tMDTJKRGNOCFFTrbqYlh8zuRcgJ6hwZOew3Rn2UVWQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.UrlMappingController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.UrlMappingController.html",
+          "hash": "Hub6Sio1s4rVK1wgJVIU/7wXbFIO7R/G3t7ode9JUno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.UserController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.UserController.html",
+          "hash": "pN9p8CPaCKUDNy4L+1u5iGULFb5fysxR0zb9EVU/AEw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.UserRoleController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.UserRoleController.html",
+          "hash": "MH9arQBMMDQ9R52g1HWlSiezHt5Et3qXXkCymZ69UpA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.VisitorController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.VisitorController.html",
+          "hash": "CnRC5G5K4vdKAO7wfAvRvxVqmRtYDewquDQ41aqGPHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Controllers.html",
+          "hash": "X+PrQdhfUVZkeg184cd5g69dnOs/8fD0drpK38hFCJg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Databases.DatabaseBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Databases.DatabaseBase.html",
+          "hash": "//0jPfXeKj0rQOSiFz7eTJzzKDq/7kEvGjztB44n2Hk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Databases.Interfaces.IDatabase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Databases.Interfaces.IDatabase.html",
+          "hash": "2/bzsXlWkLPUYXSR4DpMN/x12TbZJPWEvG1HuRZy12g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Databases.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Databases.Interfaces.html",
+          "hash": "nfHbi14c8jeLP/Y64GevaBrWN2gKTNxDE52IuCQZ9Wo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Databases.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Databases.html",
+          "hash": "zR30GvCHP66dBG3GIj3XkPojRIuw0gnfjlGkdCitFUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Documentation.InternalApi_DoNotUse_MayChangeWithoutNotice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Documentation.InternalApi_DoNotUse_MayChangeWithoutNotice.html",
+          "hash": "po8Code0s5O9DWAmGgu5BQRwHJPg5mhwFiNygqh3ILc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Documentation.PrivateApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Documentation.PrivateApi.html",
+          "hash": "waLB3LpvDwf83oyamZnT4O8LK3rg3/lvT3B90I5DXYA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Documentation.PublicApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Documentation.PublicApi.html",
+          "hash": "f1Sji9kfo7exu7Qe1LOo74UJBMUxBLMaonVHK9q3SKc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Documentation.WorkInProgressApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Documentation.WorkInProgressApi.html",
+          "hash": "UpVwBUBlMpZeN2jMFBPb/silgG+LVJgFcSHF3aKYufI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Documentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Documentation.html",
+          "hash": "qd1xsujJLHx9nnAOaaUy/qgjgH858Gs3foOs8OlkdAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Enums.LogFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Enums.LogFunction.html",
+          "hash": "taNrvkFHhQmhFkmap4cU1GMaJeAnpUVVQ13NTFJXVX4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Enums.MigrationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Enums.MigrationType.html",
+          "hash": "25Afr39NX4gzqtQJC7vi2HGGLCkoox0f7E/iACGPlzQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Enums.html",
+          "hash": "pQzLuKH31WlLb3RAiMA4vvHBIa08nJficEf/xn3sQ+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.ApplicationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.ApplicationBuilderExtensions.html",
+          "hash": "VY/uI05WSY2kxdjkRNoLYvd9E0y/92Y/bxldevZc3HM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.DbContextOptionsBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.DbContextOptionsBuilderExtensions.html",
+          "hash": "GBwvqGCYzVcoGTFuVx/R5yQjego7AOVAWDst29SlX7I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.DictionaryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.DictionaryExtensions.html",
+          "hash": "xUcd48futM065FNh8RKLokWRgKu7rZJvfuyzpCOllZw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.HttpContextExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.HttpContextExtensions.html",
+          "hash": "1Z9GQ/FFa9PAoUfTXQywYCXZ+gTw3h1QHlbyHMaffzQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.MimeUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.MimeUtilities.html",
+          "hash": "1M//HOh1jn+tGcOW1Ky7chBWjoJqxURkvpOjuIHo79w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.OqtaneSiteAuthenticationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.OqtaneSiteAuthenticationBuilderExtensions.html",
+          "hash": "7HKWAN8hj1W3yJFzV9pK8KbhjJinnQmJ6aYiH3zCAyU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.OqtaneSiteIdentityBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.OqtaneSiteIdentityBuilderExtensions.html",
+          "hash": "EQ3qF5jAbErR2bmsBqISmwZY3ZpwoXq5MqhjrOWVp4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.PermissionExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.PermissionExtension.html",
+          "hash": "kLCKGgC73Xprw9I0Mub5Ak/bvoquOczXSEKfKPL+iog="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.StringExtensions.html",
+          "hash": "416mUBgFTbtFu7DxKj79eDGWJBg6E25zXuKmlLAfAfM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Extensions.html",
+          "hash": "5rx6RfsPsQKklYwpW3dpaIFD/nAzoIxOT6GR2CODNv8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.AliasAccessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.AliasAccessor.html",
+          "hash": "Y8JKb9Z0fcPxPMQEM+fChY/assEvpcN5LcGxIcAS3WY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ConfigManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ConfigManager.html",
+          "hash": "Y/NPxv+dJoiPO/1yG+HPqcA82AZS6T+voUULEIz4GW4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.DatabaseManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.DatabaseManager.html",
+          "hash": "0J+BDgZHRvZF1YwxdMWBgKZmA8V5AnzEdS5ORZ75lF0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ExampleSiteMigration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ExampleSiteMigration.html",
+          "hash": "ZhozAM/2DV0M5Svl1DU6W8eLvaj6ww/m18SMTu0xU1Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.FileLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.FileLogger.html",
+          "hash": "77ayogTbzzlY9XQwNRNIIUoTx/YSS7sPFiY+VlJQQSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.FileLoggerProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.FileLoggerProvider.html",
+          "hash": "4LmBcjtNcdIiYfL9+GUz36end8BGyx4hCY38G08kJfM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.HostedServiceBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.HostedServiceBase.html",
+          "hash": "vHirwx9DNuLY53VMdEYxkqk8OwQlo4lACN20fDZbsnw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IAliasAccessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IAliasAccessor.html",
+          "hash": "n6rH3DPh+7EUPCck/CDvCfgPB0SUXFBL/FYgkCcvUq4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IConfigManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IConfigManager.html",
+          "hash": "3sFtJaMZP/d54ucjEiGtoQ3KvG0iBcaa7OlV/GrrtVc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IDatabaseManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IDatabaseManager.html",
+          "hash": "ao/VXmPUVmVp55FgUynTmlqEtr3OZEZ2m/XBUrQFQNo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IHostResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IHostResources.html",
+          "hash": "InQ7XyJ0T30mkdQOFw/1mW8cPKVveDdAm7t9s9oGICY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IInstallable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IInstallable.html",
+          "hash": "83N4qm7Q+vS3+w+nDdXlvmJLLiV00Pr4NMZ9i+GXxJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IInstallationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IInstallationManager.html",
+          "hash": "Avull9PbAQ/9QVqnjAi5l2y8tuJWS5g5dkhehxLPEWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ILocalizationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ILocalizationManager.html",
+          "hash": "AaahH+1KvIBZOF4E4U78hFyeuRiXpXScH1cweOTqT5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ILogManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ILogManager.html",
+          "hash": "SvnSZu73WDx4Yt/d6fEXBh2f1R5fgNPVOrx99Svt75Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IServerStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IServerStartup.html",
+          "hash": "anms1bMEvuPwmtKeFqSf62S3uvibXQcV+9kI0+XdbgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ISiteMigration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ISiteMigration.html",
+          "hash": "6eN1rqDSlLOp0qbu9SOCPSincwGTnGwlMDw5ZexJAUs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ISiteOptions-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ISiteOptions-1.html",
+          "hash": "YtVPdLypZFwJfH2KN1w/g9S5YE9FRnUcBfN32zoZbRo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ISiteTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ISiteTemplate.html",
+          "hash": "eRa+YbvpEXdIV32UsyU8uXoGJF16qQHqpQ60v5evE3M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ISyncManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ISyncManager.html",
+          "hash": "CNDwcE/zTRqrHABf5TJtRoeyUdbMtAeHZT294epC9ks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.ITenantManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.ITenantManager.html",
+          "hash": "wiYCR+Zff93H8OY7lmSTA06Yj/aBS/G9LTzd3+7MV8k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.IUpgradeManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.IUpgradeManager.html",
+          "hash": "FNFNOY7yDfaj7LyMhu2NJxRet+8PcfJy78cpGkyMsp4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.InstallationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.InstallationManager.html",
+          "hash": "XGN9iOeW7g2ejQWh+tdXB8H6p+nJyWQ1zUVsr2xVgaM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.LocalizationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.LocalizationManager.html",
+          "hash": "pswo0lr/NlUtWnC9NPD2BN+sQNGen2mmQ9KfgJR0kQE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.LocalizationOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.LocalizationOptions.html",
+          "hash": "I0Dz1vht5SSoHmPVoeqNHe+tRJcesZtAiLHlqEAHOzc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.LogManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.LogManager.html",
+          "hash": "WnUEbnx/pu7ibtv8hEuKR5xtfujHeeJlGW6tY2E8jS4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.NotificationJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.NotificationJob.html",
+          "hash": "2p6uJSyrmz+YiC8NKqlx/27HyUbOhMquwxYkc5AvXMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.PurgeJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.PurgeJob.html",
+          "hash": "kHPzQ2BzSxnQ+43CUOD1rhiX7NF2l8srAdEL2/5kgKc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteMigrationAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteMigrationAttribute.html",
+          "hash": "aBaChqPqd10S6ZnrUZQqWklmQ7tuYbA7NqF1EcRurzU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteOptions-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteOptions-1.html",
+          "hash": "jRuAiNJjuLpNFvtL4O6mJ6FrMlPbqWHliLQ1x249fLA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteOptionsCache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteOptionsCache-1.html",
+          "hash": "cuaj6plqVoTYIsHC12Q0PXJJa2bR97PNd4OuUvAP7I0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteOptionsFactory-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteOptionsFactory-1.html",
+          "hash": "1BZhCcoYZS4Mq9DVSB6/kiDzDt//uvN8PuSAHXI6TaI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteOptionsManager-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteOptionsManager-1.html",
+          "hash": "1o4suAwqFEaxz59RGgOANKVt6TvvI9o2pkrU1eGFFCE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SiteState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SiteState.html",
+          "hash": "zslj0jbZbdEoTN3dVX4Eo8LoFjMJONjASyXJybfEIls="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.SyncManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.SyncManager.html",
+          "hash": "9HQeEDFQOmjket915zv7FgdPQXe65WCjUBp+zEvbqdA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.TenantManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.TenantManager.html",
+          "hash": "odUuYwbpsPqS18hgFRyK0VqicHq6e+f+WHdMlYET0WQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.UpgradeManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.UpgradeManager.html",
+          "hash": "bjppVh2wMfoyErBG+xhjwpJ6VisCIHvB6MPMMzNTpw4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Infrastructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Infrastructure.html",
+          "hash": "39pcyY/2s7Son7zFeWan5CyS1XWeNCyURmsJHjiSwQA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Interfaces.IDatabaseConfigControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Interfaces.IDatabaseConfigControl.html",
+          "hash": "UcrDTjBTWJkrL/ZHwpUiq+0vbl0iVHVtZ3ClfUDZEyI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Interfaces.ISettingsControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Interfaces.ISettingsControl.html",
+          "hash": "wyk5IDjrVVh8XxnZpL7hpp7f/ri8gWNwgspJypez4Ao="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Interfaces.html",
+          "hash": "gebo1qS/DjX6MsVtOzspxR5dvGuw1kxfdMMDAHGxUSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Alias.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Alias.html",
+          "hash": "bcBZzBPRafreViRU1er+M60oWuDo9NsJ3PA+y67dubM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Culture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Culture.html",
+          "hash": "3WnJ+dwDdNdUyYg7diCWHREWHxLt8lyc5l5yeiQV1v8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Database.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Database.html",
+          "hash": "p46Yb1u+Qm1DynFjdO/q/F6k9mwRVkMS99IAu9UB024="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.File.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.File.html",
+          "hash": "1W5bIcF6spGVkPKiqQVcI1+fcy3U1GSPiUYWkOh2p9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Folder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Folder.html",
+          "hash": "zqtYyD5CT+kQsQwfxPcOTJWKu1oGaIZWhA2Xj8H4iYk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.IAuditable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.IAuditable.html",
+          "hash": "jrLGe3un9SM8JGY1AvkRNqM0+NqlK9GUhrqQs2iYc50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.IDeletable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.IDeletable.html",
+          "hash": "GYa0cWYeTGvNNKx/2JHrAU8QhJXYv5jXJuusgi01z9Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Installation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Installation.html",
+          "hash": "8Zw5skqq+yZT2VJ+iqK6Ruz8rGHUVEcQBb9uFpE/Ixs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Job.html",
+          "hash": "TNTj5d9FQCE8Kpmnfo8gl/eQUWCwbQOBpZfNJW9GP6M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.JobLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.JobLog.html",
+          "hash": "o+AajN/zWKdj8BcxHEDOZvkFD/pQRFpJFNovTAaDoyI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Language.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Language.html",
+          "hash": "w9vYVjHqdy8BlP0cRfbXl3y6eUJS9F8QMrvADjIuZeo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Log.html",
+          "hash": "jfg4CKgljp0DEMqs0lTQ3s0ryGEyNo18hQ6id9JASlI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.MigrationHistoryTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.MigrationHistoryTable.html",
+          "hash": "kjqZfh3inxve8Ep67M2r0Li+lBVMdMqfVr2OS+mRUdk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Module.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Module.html",
+          "hash": "BjVCtTfTTUZCu9J9D76RGjtmsxUJoQ68kD8FB2thSCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.ModuleContent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.ModuleContent.html",
+          "hash": "rfgRtx7oqehYeSdBNKumUOKx882sexY8FT0MLQ5y8Zs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.ModuleDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.ModuleDefinition.html",
+          "hash": "pVind16g6QiJHzG85gImma6qUC6i7r2fSVxuwE8pCO0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Notification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Notification.html",
+          "hash": "kN7RColVO3U0tyyS/3o4dDI9vhb9Y8AklbhvFsYIRf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Package.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Package.html",
+          "hash": "M3MtG0QwDQlxtP9NhAxmYT2STF9AQ1qFMCqBU2u4ei4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Page.html",
+          "hash": "BhxdfVEOnHaUDMTNRUsRvtl2PqOxBfjDF+Jw/qQDENM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.PageModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.PageModule.html",
+          "hash": "v5lhg1KSS8JY0xMaPA9Ggn2qIQVQUU3Pv77U5htiIrY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.PageTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.PageTemplate.html",
+          "hash": "TS/IQWJzYyo7Cmo1RMkfQ5UMazr9nd0x41H40qaHinU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.PageTemplateModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.PageTemplateModule.html",
+          "hash": "C73sxD83NwrbaX5LjKxLKh8r5PC52iOfK3wA2a9tWtM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Permission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Permission.html",
+          "hash": "Rz8xDJaVI1OyzL46X9ZHMA6ir8HjiksNkdMUeI/racE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.PermissionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.PermissionString.html",
+          "hash": "+jNlYIIGS2mprTYhoTsHU+spueQbZ3DnHNEXKECVUpI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Profile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Profile.html",
+          "hash": "KaEaIMNeiFSwJbhI1wk2SPWwnb4VJ2c7ocOLOy3IATs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Resource.html",
+          "hash": "v9s7Hp0iYAXA8AgMGF07xL1uBb/SD0nSuibUWyo/f7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Role.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Role.html",
+          "hash": "YVYwLwHn0wp1vmjU9UvgY5GFyfEwmd8rGjah817yUJc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Route.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Route.html",
+          "hash": "j9iTg/YQqq7JleWaH4Brqc6SE7Br0ByMHDQebTrz4Hg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Setting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Setting.html",
+          "hash": "qmrJtdcYCOjYCDkuhK367ohO77R+YWdzEyw3LIPnaFU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Site.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Site.html",
+          "hash": "EDo7B7GHDYwzm6dNKhsEbEVu20LScgcyiZXLZ/GG+MA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.SiteTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.SiteTemplate.html",
+          "hash": "RTd2DUTMmWYdhD3ph2BTIpurjx/PJ8wjk8xMaMiumb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.SqlQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.SqlQuery.html",
+          "hash": "F6QyzwUK8vhjKQPLNPDlEwnE/YuInWZ/hLgJlMUaX/k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Sync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Sync.html",
+          "hash": "jUi7L6whotEKAxxcvwmJVOwstoD54P2Uf8H6WgFAJpE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.SyncEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.SyncEvent.html",
+          "hash": "xrVugmSezNIasV6NyYZVu7Qzamm/DE6xAbL4UutNUV4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Template.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Template.html",
+          "hash": "H1H0J/P0W2w18+WyhIVm9XU7cbgh5W7g6XuMvCE8LhA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Tenant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Tenant.html",
+          "hash": "4B575uct9NVvnrmS78ySwSCl4b0WJHw7pMtYxroqkj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Theme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Theme.html",
+          "hash": "sRuMbS8gZUyGvP9Bg01+ELtJZVsViiSmSPAM1hoO9k0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.ThemeControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.ThemeControl.html",
+          "hash": "hhUhb6J4tUJA3L+DJbJ27H6qLGDlu4O64lpDxoeMI+4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.UrlMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.UrlMapping.html",
+          "hash": "qocYWFynnbIxLCXzkNs9S/01pz7Qx3VL3+kt/drqPDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.User.html",
+          "hash": "B5p1OxxztF5d7Nbg+jM0P3UBlJwn0ZJo59wFX6T7Nn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.UserRole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.UserRole.html",
+          "hash": "f18T2wOzpUXEoftTWqymFHJq8D4e2SUHKGlb8BjfFxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.Visitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.Visitor.html",
+          "hash": "iSTm3Spd/Wl8kV5MDTAKow0zov5r9dQII4E7CNjuHOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Models.html",
+          "hash": "IcdP0eAoPiZqF7dS1RTfXwF7eCElMa4kflyqqbftOFw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.Controls.LocalizableComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.Controls.LocalizableComponent.html",
+          "hash": "w/m+vAFd8/5C2vyFAOkXfV+1ELffODrt/mqWMmx//sE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.Controls.RichTextEditorInterop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.Controls.RichTextEditorInterop.html",
+          "hash": "zbOJ2S4fEdlWqEXe78ab/wzWyq3dAXhboiuOjfbX3Bw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.Controls.html",
+          "hash": "lC0F2dFK1os2Z1bDwlxKpl5Sb+Pkq32TF0dyqtYgpnQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.IModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.IModule.html",
+          "hash": "ucH/AWlM7XsigIVbneVFBL10qtgchuTol6ecdktsWqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.IModuleControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.IModuleControl.html",
+          "hash": "3WR3HGgB+sFuMhd/h8JmW5YaPPoP1oSKWh6sOOla+VM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.IPortable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.IPortable.html",
+          "hash": "MOFfIv8DI8IHLM0hh8D2YkRMRF5PEu42lYDBhaWBVmU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.IService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.IService.html",
+          "hash": "daHOO/hOM6vCg+W3hs+spXR8Tm2JinzbkZrG4rik5Yo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.MessageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.MessageType.html",
+          "hash": "visrX7BeqRSvwmOax/nLol0kg1QvKu5b1GWeVud7pLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.MigratableModuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.MigratableModuleBase.html",
+          "hash": "pbz9HPvI0h8NHbiGAiILDURqhCYqgSQUtdND7GIbXrM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.ModuleBase.Logger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.ModuleBase.Logger.html",
+          "hash": "pdWKa08c0Ac+FK0tR4SqLOAiKjyTNbmN8lMwT3LtVw4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.ModuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.ModuleBase.html",
+          "hash": "L+E28zOUUH0NNTVLJuxX8+3LDKnqcyy/e+gpW23LS8U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.ModuleControlBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.ModuleControlBase.html",
+          "hash": "XRU/zBabdSGhlmH1FQPyiOfn/EZhCDj3EvrOxccY+nU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Modules.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Modules.html",
+          "hash": "w9D5JW23zSxbxg/SHa6nI3OWqqBw0jwmjAJuCHzr2+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Pages.ExternalModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Pages.ExternalModel.html",
+          "hash": "X3O9luidVsCAxZm3IuImy0wXy7ODwskNpqWTNOyfZeU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Pages.HostModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Pages.HostModel.html",
+          "hash": "44oCAWlnPqPTrqy8+BX1QAp15J+Yc2eSSMvlSpptOUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Pages.LoginModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Pages.LoginModel.html",
+          "hash": "t/4WjfBdkpSpGgcEs9n/a3JQgBc66nveZW9Upz1T+tc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Pages.LogoutModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Pages.LogoutModel.html",
+          "hash": "suIGure4z4PcNcZiEvRxNlMY7qkFdShdw/hwzSlXqys="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Pages.html",
+          "hash": "VCXLEcOYmKkul4MZMuLQq4H6V07rVM3KJ065W1Jj3kw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Providers.IdentityAuthenticationStateProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Providers.IdentityAuthenticationStateProvider.html",
+          "hash": "vAaMNYm3D/AZC5BCmvK2kXYHHoXCKPjMyGXq3JShv1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Providers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Providers.html",
+          "hash": "TuXV4fFVf0FdeCGVnvC2KcdZvZXmdEj72IkywAcH7sA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.AliasRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.AliasRepository.html",
+          "hash": "VjgVTvOnktHwRrnMjOUK26mIzghVTCT3su3arecXzs4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.DBContextBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.DBContextBase.html",
+          "hash": "EGcYUI7OAT8Ws0Jw0TvbG0MSM6wNqyq0Kp+7sIsc2rQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.Databases.Interfaces.IMultiDatabase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.Databases.Interfaces.IMultiDatabase.html",
+          "hash": "sA/dExfDX285AMlEQ926ryb7yCzLf6Tp9PR6HujxmAM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.Databases.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.Databases.Interfaces.html",
+          "hash": "pJX6Q97mDF/SF1D8bGHyFXcJyU/exl/1RHDVcZDyM8Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.DbContextUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.DbContextUtils.html",
+          "hash": "eQjUCWuU/PYlMfctId/d9XZUWVctaLkIXiTTlNdaVjE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.FileRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.FileRepository.html",
+          "hash": "a8v0DgrLMqxS1qKpV6H8ynjCnCLrE8HGDv0jI8oTns4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.FolderRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.FolderRepository.html",
+          "hash": "z6nxJuIW5DAU1G1qGQPsw/WGFoTmkSEGW1+tl8Bv7MM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IAliasRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IAliasRepository.html",
+          "hash": "y50vjh7+inICzTo+t/bhiytaBnMgMFnoo/uN6Zuszwk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IFileRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IFileRepository.html",
+          "hash": "amZMeyaNliuF88d6jNEi2VVhOfMdwu/E431uKuqV1y4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IFolderRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IFolderRepository.html",
+          "hash": "uKXNMEBVZzUiY2yco41tqznWmD4hVegWUrTQoPi0GJg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IJobLogRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IJobLogRepository.html",
+          "hash": "hBKhjtG41SiELxyEZzGqqdRtTSLe4z5tkKGaT8pKV+s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IJobRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IJobRepository.html",
+          "hash": "6mLlSlE8YlA53MYOx/H0ZIT2YJI1huQ6Cph6k5wpXv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ILanguageRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ILanguageRepository.html",
+          "hash": "lHYtlsNlRAOUT5lwvKSLHYQBqIpZisMR1Jlj71BlL7Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ILogRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ILogRepository.html",
+          "hash": "2qhUTeBQCwuJdS7j4xNRA3FgKM1Mc9LwHRCnTSOVd2s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IModuleDefinitionRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IModuleDefinitionRepository.html",
+          "hash": "FW3Mng6R3dpqSDG0JwL91kJ8aTs/r3ISqA6XP5IlRS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IModuleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IModuleRepository.html",
+          "hash": "DQHMsO8kfaooWQGKOwAg2ld6otneV/y7iX721xQumc0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.INotificationRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.INotificationRepository.html",
+          "hash": "cKys44wWOMjzTm3tte6alZC9zJaiBjFfbC+AFl/N35o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IPageModuleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IPageModuleRepository.html",
+          "hash": "+EkirfuZ6yEHOhthd1aO0LzO6naE3BDRVcKZyA6bZWQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IPageRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IPageRepository.html",
+          "hash": "toyCnm1Em19GYbt+k3Ah3ORzMsI64PZnYaqk6mHwN48="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IPermissionRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IPermissionRepository.html",
+          "hash": "Pjtgz4lY72PqieS4FRO+FbkTxOPCQq42GZwZMIWaRHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IProfileRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IProfileRepository.html",
+          "hash": "OSvepy71N1tPJBv9M9iuwqh3NF/XUkFZ5eyB1SHk8uw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IRoleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IRoleRepository.html",
+          "hash": "HhoE6ze/9bvM5le+29Y2sHCvnHHbc6TeuBC27dTxsWI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ISettingRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ISettingRepository.html",
+          "hash": "zqFsSYADA5YoeoHL8f8Gnj9v4+DECDkIcn2jaqkVlMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ISiteRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ISiteRepository.html",
+          "hash": "VH+9woKTgfVqgxrmDnmeS/dI4jMT4g4wlEEOUhJuKXc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ISiteTemplateRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ISiteTemplateRepository.html",
+          "hash": "SZ1N8Z7t5z2dxAQkPQSDuo4rzWINIggZvne7kRtU/2A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ISqlRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ISqlRepository.html",
+          "hash": "xK3ClR7QlK4NKrkQ+/XhG6ZmH+GbvgYT5qsz+rxxmHg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ITenantRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ITenantRepository.html",
+          "hash": "SSZdvXa+xhcdIkpKPd1hTECGrSoY1KpnwJYL5Nw0kFY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ITenantResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ITenantResolver.html",
+          "hash": "rYk/iYT2U33Onb/c7xKpUZr8ECTUc91fEQ2jbIpZVcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IThemeRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IThemeRepository.html",
+          "hash": "vLNezeXtbda0kOv73Pdk/YCgNhrhWl94kHt5Cwa0FoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IUrlMappingRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IUrlMappingRepository.html",
+          "hash": "Rk2VCdQpazlWDIBPcvwxorpMovZ0DQhnbWnlWzC9caw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IUserRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IUserRepository.html",
+          "hash": "QQ51qQtXtWbBFJcZFkc6jFkCQL2r2H3Ox7sN3f4nrbo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IUserRoleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IUserRoleRepository.html",
+          "hash": "02BtcXn55K0gYXndfe4Gr5nad5fnVnehI/Eith0K+j8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.IVisitorRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.IVisitorRepository.html",
+          "hash": "M7s3h/7AIEfyIxQL3NpFc/g5qYOL3qgkuNxsJqpeuMM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.InstallationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.InstallationContext.html",
+          "hash": "VD5xukWmpNzR0pn042rRTxLoeLQsEdm0wktoH4BAaZ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.JobLogRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.JobLogRepository.html",
+          "hash": "DQPh0FEnhNcBbEZg/e4qrVYrGqJSereSTodilSibDKc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.JobRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.JobRepository.html",
+          "hash": "a0bK1WX/70cRqgj3ETUPFFjOqTDhYeXLDJYeueeqjuA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.LanguageRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.LanguageRepository.html",
+          "hash": "zdXUqrcQbw9eEsl/NFvVz9U3GfULKT7wUjSNXr/AxJc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.LogRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.LogRepository.html",
+          "hash": "VivL0adb+S+gzeViRnxlrqBXS9x9NtW7QdjbrpaaeBI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.MasterDBContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.MasterDBContext.html",
+          "hash": "LsMCMnKoMNVOxSHJxr0qDKADU0pPgF0cAQAdI3STR7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ModuleDefinitionRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ModuleDefinitionRepository.html",
+          "hash": "yGyiWu6B5sJkp+InhZI9p7Uob0uEHafmq7QQYePZfmc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ModuleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ModuleRepository.html",
+          "hash": "RjrolYg7NReAdKKRjwsmkayjLKklVijsxHyEPh29zf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.NotificationRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.NotificationRepository.html",
+          "hash": "LoQL7SgiwktFuSW+kuT+uLclZSjQYctZscMlRpbkTCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.PageModuleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.PageModuleRepository.html",
+          "hash": "es6b54ELa803Ypd0Af0RFdD4PLmlb5zUPjtr0HEte04="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.PageRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.PageRepository.html",
+          "hash": "22uu521i61jJurYR3JzpkGGYEHchepvLQmuDw2njkow="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.PermissionRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.PermissionRepository.html",
+          "hash": "8urDAEmTPjZx1ElmEiEt1d8uShkoJBwBGs6s331HZtI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ProfileRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ProfileRepository.html",
+          "hash": "gieqmWD/l477a4ekJ3YZq7WBq6KZ8nCpZC5nfNfFVEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.RoleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.RoleRepository.html",
+          "hash": "DGQf77Ah/+FSqTx6T8m77RI5m7wzozYyYJXeyqvYBm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.SettingRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.SettingRepository.html",
+          "hash": "FDcl2/61+hbCZdSv2dpp1xdTruk7Au03t7zVkJODQ6k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.SiteRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.SiteRepository.html",
+          "hash": "H22cP1D3zsCA6KUe5iWFUYVC3ygLYZQiX07LSYXbThs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.SiteTemplateRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.SiteTemplateRepository.html",
+          "hash": "6rkxAWXJUXESobO7iUZ3Njw1v2LBikRY/ZYIB0wl4M0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.SqlRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.SqlRepository.html",
+          "hash": "fq1vjnpS/hY/mBXdLRtJi/i/Mzh+78tHWrFcY0YkwEU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.TenantDBContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.TenantDBContext.html",
+          "hash": "b/tir/pAkjNayMP7x6IpAHYJAzddz09XlXVUhf9BDFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.TenantRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.TenantRepository.html",
+          "hash": "HaVnXsyVqBDX7G1FbXQvRmoSzJoqwKIQIDiOHJ27UbA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.TenantResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.TenantResolver.html",
+          "hash": "504U84eXz7Ye7YKSUv+hfujm1odS4GbDOmfo1BtUX+s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.ThemeRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.ThemeRepository.html",
+          "hash": "XvDJSv1qMEX/gV4hW/b0g9pkIcns9w1jC+BWfGqLbaE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.UrlMappingRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.UrlMappingRepository.html",
+          "hash": "ylDcE7D+Vr8tcAZcu09yY4DJuGnb4H0NPD/Syjlevig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.UserRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.UserRepository.html",
+          "hash": "jtwV0oINtbJUQnrrdxMTaGzkSUPDPjl/A1fLhvrtum4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.UserRoleRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.UserRoleRepository.html",
+          "hash": "DQ7AtARXticjJSDwaN9EtR2CWCQDV8x696BdtocLpSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.VisitorRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.VisitorRepository.html",
+          "hash": "ciMfZbZOTcF4MavE8b8fAAtPXNzpQy8wGGpaeKJeye4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Repository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Repository.html",
+          "hash": "Z/xDlbRFUod2E1vCmwe+6KT1kom6UiAS3aNJ+UcNzAE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.AutoValidateAntiforgeryTokenAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.AutoValidateAntiforgeryTokenAttribute.html",
+          "hash": "dLdJa7/0Xw2dcOHJYCsdZxHN/ReVw74dHhIJpKpi3s4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.AutoValidateAntiforgeryTokenFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.AutoValidateAntiforgeryTokenFilter.html",
+          "hash": "w0JEaN4Da0Dp3qfDBUig3+YhGlPeM0NxIv0g0tg98YU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.ClaimsPrincipalFactory-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.ClaimsPrincipalFactory-1.html",
+          "hash": "uEFq+tcQqb1fiHMG0+HE/sRs69SXeD1YvvH2RJeySLU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.IJwtManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.IJwtManager.html",
+          "hash": "x2bYY2tejSogOgrJujNYhN2AgFfQR77Vb263kvJ81ds="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.IUserPermissions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.IUserPermissions.html",
+          "hash": "OwjHHFLEsiQuIOO3RBb54BJH3dAX5aQ3wpVxL+LDa5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.JwtManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.JwtManager.html",
+          "hash": "yO8xo0E20Gh+pUyuX9IsRmxyF0k0Nnx2YcEMFw39Bg4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.PermissionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.PermissionHandler.html",
+          "hash": "0/p+G1qMSMuLO2HCD78AoE8FyOaqedaLESEintZBW1c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.PermissionRequirement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.PermissionRequirement.html",
+          "hash": "FemkWDYmnbPcpU/IBf/UTzrseI4Wr1LGjLwzoJzm7Gw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.PrincipalValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.PrincipalValidator.html",
+          "hash": "dfGUjTYibASE6UHPIxVYBfKTaJ+WB+pGM+u/HmM/pZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.UserPermissions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.UserPermissions.html",
+          "hash": "XAkNPHXwkGgveMbvv3yWx9rh/Kx0NEuBLclm0N7EiAQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.UserSecurity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.UserSecurity.html",
+          "hash": "9f87y/o3eLqkuvLDm8pNyxsmMi4DLkmzx+qmAOqeJH4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Security.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Security.html",
+          "hash": "hhVtj5TPjLu5eZKN9/skYfOg9epEYrhNhiGLvFzvvsU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IAliasService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IAliasService.html",
+          "hash": "eP80xsCxdULrbvw+8W8UTWdscaRhzeP0SQRGjcZ8wNE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IClientStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IClientStartup.html",
+          "hash": "/OHHvLN2hQaSaMlMdLHq2dVvFNjJBWwCcRORQgeC/P0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IDatabaseService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IDatabaseService.html",
+          "hash": "10tu7do7OsoW7mKeqaZG8QZeadT8vL3HE8ccuJo1oL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IFileService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IFileService.html",
+          "hash": "DXIKW+m7a1nwHw+VUe9D5+IRIP/Sg2azKjeWYRC8/eQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IFolderService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IFolderService.html",
+          "hash": "sy72PaGe/Qd64wqlFXJdu28+olJ6pWGvdBGp/gk46/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IInstallationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IInstallationService.html",
+          "hash": "StBM2ZGXAqtxU3hbq51nzvcpu4jo0K9tYWnzc4EYhvQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IJobLogService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IJobLogService.html",
+          "hash": "dD0GDfO069rRddkruCXG/5eWTD49zSBAka7vYT4KHnw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IJobService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IJobService.html",
+          "hash": "2kimydt/n6wta5s+RBn3R1FH5zvyMGA3Nbt0DCxM9+o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ILanguageService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ILanguageService.html",
+          "hash": "2etCMubVGKe+1auMGWMLnx9iqsyr/BIzJSJaYIhGF/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ILocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ILocalizationService.html",
+          "hash": "i0Fjmw/Zj1WTCnxNiSx9O0FVqynPlP2jn40BweRsEg0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ILogService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ILogService.html",
+          "hash": "itlmFqeH18HC630rHNNZzn5rTLEpJdGX5PdDG/PyGxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IModuleDefinitionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IModuleDefinitionService.html",
+          "hash": "JZ1a0qu9w2li9QMf1f5SCTkWt1TMeyUEsXetzk4qLjg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IModuleService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IModuleService.html",
+          "hash": "VqIjuOL8x68rx7cQg9OAndCUFM6D61Z5KOwbbbu6DVg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.INotificationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.INotificationService.html",
+          "hash": "3opif0KDYmvCs1A08mWBWjrBmesmt35A4nXAYyHOEEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IPackageService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IPackageService.html",
+          "hash": "nZa12oSTk3hSfyy5H6pgidQa3L0GhTVqHqmsq4abVfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IPageModuleService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IPageModuleService.html",
+          "hash": "Cq/uW8o4XzLORERsAhFk8tHqgbqvq5Kk9LZJafcqXlQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IPageService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IPageService.html",
+          "hash": "3gF7NMRFXuBcoUQ71DxaV8GBTR00mEPu/0o2xyMzQFo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IProfileService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IProfileService.html",
+          "hash": "2+w9lfHAsxRdz9890T/kSsrRLo9SouU/EVSdzDa8kYo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IRoleService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IRoleService.html",
+          "hash": "T3HH9uTNn3KBY/RHhjPO6qRxs9d6nYFVcP9bIHw5Wlo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISettingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISettingService.html",
+          "hash": "G1KLYZ8UUt7VqgplpqBJObet7CyGcdEzPX5SUx3Xl3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISiteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISiteService.html",
+          "hash": "L02/A65nZI5jAt5Jlsj4uSo5F5Sc6O+eK1sHSMGKdEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISiteTemplateService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISiteTemplateService.html",
+          "hash": "utGyld4cOnUpJhK5PgQJImyJt8tAuLW/1OzFwu+fOPQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISqlService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISqlService.html",
+          "hash": "3s/m3XaOaUK08ZSHFr8lgEqf/3f3T2VcPyNXGYw58m8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISyncService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISyncService.html",
+          "hash": "0G6gOPoEY4VxlBqU29JTJlgnIm4+hf5Xb2prh3ldL1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ISystemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ISystemService.html",
+          "hash": "F3hSmnIgl+ET6QG8b8jP9Cchns2R4Y5ezyQFniQGlrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ITenantService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ITenantService.html",
+          "hash": "DtgkbAJ6dKHKflLYg12bvinqc0rJ94BDtGJQv+qAAb4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IThemeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IThemeService.html",
+          "hash": "K1SRcSZIayeuVsJsMbSi0dgNGck/NK4Ca4rgux2KStE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IUrlMappingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IUrlMappingService.html",
+          "hash": "QYD8rNi0oERdnyWSH95TGEb3V4+owsM60rsCIahKeZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IUserRoleService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IUserRoleService.html",
+          "hash": "GbD+30GevbOvqSLzHVLyZDC2LxVhFyrmKy8BjDrCGQA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IUserService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IUserService.html",
+          "hash": "SyngYu/K2IqJ41tua88FWKVryItEjnlu8ycrUUrCL5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.IVisitorService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.IVisitorService.html",
+          "hash": "sZps8t4y+N6g+1nIdM36BJ973dxUzlw/9dXig085hiI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.RemoteServiceBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.RemoteServiceBase.html",
+          "hash": "z+iFEiIIqnSldnIRpbwtKWFswJ5qcpvGCvanxlwQNu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.ServiceBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.ServiceBase.html",
+          "hash": "cghHRKyigB0lEatfUfe1AA6wsPBX3rCPl87BvpHNIjw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Services.html",
+          "hash": "R0RtPWdthC3kATViraGSZkg7G1WCLiW8jOYeP/5mDuQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.AuthenticationProviderTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.AuthenticationProviderTypes.html",
+          "hash": "rqB/THVf/2vsr1CGupD2cC5LJJSHQiNueQZitX8qFD0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.Constants.html",
+          "hash": "qY8aj2PBJ2Fe+yn7Bc3+0Fcfcl2ChjjMGQvuxfDUkUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ControllerRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ControllerRoutes.html",
+          "hash": "M+eNfQcfHBrgDmKrF+pbdXmUGyLXoO2g6kaOb6AKaG4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.EntityNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.EntityNames.html",
+          "hash": "xJVVkObKQS7yZvg1xiZxtCBXmBTAs2fZlYF5baul9a8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ExternalLoginStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ExternalLoginStatus.html",
+          "hash": "TqGZoxng6Vo1beB7Ufi/H6Qr5IEIZFZzFqtspyv6lws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.FolderTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.FolderTypes.html",
+          "hash": "E5u5pepGDZvfg75c5TIdFEVpWMmgsjAr9TXB/47WkJA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.Icons.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.Icons.html",
+          "hash": "UhgCIHFMlX5YgSFqVJqKwqk1cbuGSHkEXrTd0Ha5fe8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.InstallConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.InstallConfig.html",
+          "hash": "KCOSrLjPDtqfq8ROFtd3qcdoyPYFCLx66u5tyzqTsnQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.LogLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.LogLevel.html",
+          "hash": "wqicx5kQxmB5kr9ZMf9aC/+VWyo8jGEhbH4yoLvFfvc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.OqtaneIgnoreAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.OqtaneIgnoreAttribute.html",
+          "hash": "fGrT75QhMPczkpuuMiGW1CZjx0BtT0gAh82fCj7QdGQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.PaneNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.PaneNames.html",
+          "hash": "t1Ok4qutMF/bGQT8pd6Mo2m2NOMGmwfe+hy1AzRVO1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.PermissionNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.PermissionNames.html",
+          "hash": "5BeFWxuH0QkBGK4kqYGcTRkSx1f83VKRQZZJoioe8XQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.PolicyNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.PolicyNames.html",
+          "hash": "8GusVEUfK5W7kpQ9FNzFSde6Bfkk6YDR0PFc/wudU3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.PropertyDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.PropertyDictionary.html",
+          "hash": "7Q2e1jHvC5904CIRdAjs7oaz8oZxyD58NNypV7bfC/s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ResourceDeclaration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ResourceDeclaration.html",
+          "hash": "PlzQRuZ8bxnoS/5rx5cuCj9JeAMHgwxKGDj/8yQp5ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ResourceLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ResourceLevel.html",
+          "hash": "9Xy/Hu/8wNiCcmXq/F/a9aLSm4ObfDi3oH4TG2Fbg2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ResourceLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ResourceLocation.html",
+          "hash": "ctdaDEJfTpwFJ5DzyTAeDmNS3Dg4GFqDr8GN4YJhQXc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ResourceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ResourceType.html",
+          "hash": "M0vDG7mP6NBDYBw70Bw3JfRg3CkGmNOMvIjNznWv1+Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.RoleNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.RoleNames.html",
+          "hash": "nJvBCRKqd56uQPaRSJWjhrnIYPxuyQ67EPv9G6kFl7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.Runtime.html",
+          "hash": "WPYcQfkwuekzRaJa4KMsj4I21T7WyeJWvHGjlQiJW/M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.SecurityAccessLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.SecurityAccessLevel.html",
+          "hash": "XWUqaZieFITaV/+0n8eBppxq4wRkZnEg2fWAN62kzfM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.ServiceActivator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.ServiceActivator.html",
+          "hash": "J5ZAG20TTdn55J/ujRGMPSg/6+oXOrLdZDe29Xx2QHo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.SettingKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.SettingKeys.html",
+          "hash": "0x/FU5sWJ7pm8+/JYyuZZwW105z5w9Ve2CMwlVpJDmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.SiteState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.SiteState.html",
+          "hash": "CUFC8fJiYs2efIC2C+Ne/rk7ufaHv+tIMAyQo/zxqNM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.TenantNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.TenantNames.html",
+          "hash": "Gr9Udj/jZyJSC1xxHkVvARTrlHzt0ifZGEvvTyBnh5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.UserNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.UserNames.html",
+          "hash": "aDTOtAdp2K8X7yu+nUY0+8oofje5JL4EJ+OUU/pB6tw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.Utilities.html",
+          "hash": "0/t2cKekp1Mfz5f2AugPbCIRG05KN17asWeNAyOab/w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Shared.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Shared.html",
+          "hash": "/tOv5kk75Q0icgp85pfgW+4i2vII5ALYN/JQl2NdKBs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.SharedResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.SharedResources.html",
+          "hash": "o16JRaNA4oAXxvEcxgoQ3X45B7zTYLZFoITEloDoHL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Startup.html",
+          "hash": "ZKs7hdPWxNznao2sfflQ/HxbZC+SliOGHjzZUCQ1tvc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.ContainerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.ContainerBase.html",
+          "hash": "FcNfm/syh1zu6lLLcHfc4ThmOxbUhVdm3slz5mHz0Rw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.LoginBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.LoginBase.html",
+          "hash": "pFfO44tUHoyftI0PvYwkL7fR70PeVz0OYfwcZ/HHpUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.MenuBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.MenuBase.html",
+          "hash": "U9Yb98dik/QU7ekATd1BflHAKwlmyR1doHoL08bkdJY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.MenuItemsBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.MenuItemsBase.html",
+          "hash": "tuoQfAmiCrTzFkvFOx2fE5g0FTzGJibH+/dwqa0jEjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.ModuleActionsBase.ActionViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.ModuleActionsBase.ActionViewModel.html",
+          "hash": "z3PM5KwnYE3AeRdL80lCcQtzJ47h+f4FSHdbIA8o4jI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.ModuleActionsBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.ModuleActionsBase.html",
+          "hash": "e8dyP9zqMIT/wI5xl5gzZa9GYxwpqQjgXZWlsQ1cU3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.Controls.html",
+          "hash": "BSUASYQEV69t6l81/DBTP7WXPos6l6CFFs2306elekw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.IContainerControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.IContainerControl.html",
+          "hash": "7S32Za/DXsNy4HKGw0bUm9Ak0ZSOR7CU7NwBxDXxf20="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.ILayoutControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.ILayoutControl.html",
+          "hash": "ib6MS+DxgUzyW/s9q+scEJMBPnjHGIvlmsJB5iKJgaw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.ITheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.ITheme.html",
+          "hash": "/0MWbLLj0rSzPhDC5BqRMKx9kMteA1ohumLxMF5/SLU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.IThemeControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.IThemeControl.html",
+          "hash": "ObLeos96un+IOpMzQg44XxzE7DnQahy1Szyc6B3ETls="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.LayoutBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.LayoutBase.html",
+          "hash": "JfEu5kGXEwZbx2e1GTEeJwd4bb/p7uf62exAJ1AxauI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.ThemeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.ThemeBase.html",
+          "hash": "JJRhb3qGzNN1azXtDxFSYNSzONKFray+dLTUFggXDcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.ThemeControlBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.ThemeControlBase.html",
+          "hash": "3uMmq0fViLR/Dvv/xBVyWNG27FuWIozogYprj8CIyGU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.Themes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.Themes.html",
+          "hash": "bOgCivqqql+8aD8sSU1N8qKQqAemTLiG9XwRxUHr+wk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.UI.Interop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.UI.Interop.html",
+          "hash": "jvEwAj5mtjd/+wZbatQFJAoYJ5o4Xqv5BpKC6S/zsLw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.UI.PageState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.UI.PageState.html",
+          "hash": "iWAgS+oDKeD2HF0sU1rPHO4u6cMTXjCiQmvBtKGlfwo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.UI.Refresh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.UI.Refresh.html",
+          "hash": "o15naTu9ucR6A7TFE4gcAKdoli1h+U4ZOfJWweWqMws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.UI.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.UI.Runtime.html",
+          "hash": "WvRLRIslK2Ocjdabx/8A6U7/AaeL9Upwf+tW4hAaeDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.UI.html",
+          "hash": "2gIuiq42I6BMKQBor+waxkCzshn3Imet2nMeZLwMvJw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Oqtane.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oqtane.html",
+          "hash": "4gCuAsIoIt7RyokhRXlIh7qBhhThZGvXqtmomdnnw1Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "FMMkCBOIrArbnM2eNRPOLgcf3QT6II7tk33uHiAss8w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/articles.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/articles.html",
+          "hash": "xzTUS+VEVTLiIucUoltsVJ6viRir/tVPkbv17Ozn3fw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/assets/articles-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/assets/articles-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/assets/hierarchy.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/assets/hierarchy.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/assets/introduction-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/assets/introduction-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/assets/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/assets/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/assets/videos-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/assets/videos-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/concepts/assets/concepts-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/concepts/assets/concepts-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/concepts/assets/hierarchy.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/concepts/assets/hierarchy.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/concepts/assets/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/concepts/assets/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/concepts/dll-handling.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/concepts/dll-handling.html",
+          "hash": "jfEZIu055p3VmlqUbcOzZqGBUyIvQHtMU/vmQMQ8lLA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/concepts/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/concepts/index.html",
+          "hash": "9riPjIRre2dYA+/tLDJ9op7ALrTcfQzRZo6AOr+bROE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/api-menu.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/api-menu.html",
+          "hash": "DuJYpFr3wE/H7RRROPQ3nng7EnfeVhWWkMNtEua+69Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/documentation/assets/documentation-banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "overview/documentation/assets/documentation-banner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/documentation/assets/folder-structure-for-building.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "overview/documentation/assets/folder-structure-for-building.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/documentation/assets/vs-code-build-succeeded.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "overview/documentation/assets/vs-code-build-succeeded.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/documentation/assets/vs-code-build.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "overview/documentation/assets/vs-code-build.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "overview/documentation/assets/vs-code-run-task.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "overview/documentation/assets/vs-code-run-task.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/build.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/build.html",
+          "hash": "kSDqkOGrW1FkZWXaArrVYhwBiow1fw2k79f3+aRMUG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/code.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/code.html",
+          "hash": "601Gi2Rych9wy2tz1ptfM4fYo+QVHgaK7K4LpB7Zxj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/folders.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/folders.html",
+          "hash": "sChKHpjBM03R6wzg+ADMxjUP3ZnqkrGNmuJJ0qiJ1po="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/how-it-works.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/how-it-works.html",
+          "hash": "xZPn3gJxuQxfGI2rHbHTgRdrWwixsD4O5gXscaBOhW4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/index.html",
+          "hash": "xOLvb/LaSv1z3fvDd3PC9BhuDgELEddRTUclR4xuph8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/markdown.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/markdown.html",
+          "hash": "iFmPB9omWdcPkQreJqEFUapNsY+UtIrrSlkdy4AKhjI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/documentation/run-in-iis.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/documentation/run-in-iis.html",
+          "hash": "ouoT0TKekDyhmepe6NKa/MD2oXXMl2lzivCHt96WVis="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/index.html",
+          "hash": "KvEUvqO8HHLfzK+66w2jC01L0GJLEWrOzGgQVzhmOGY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/intro.html",
+          "hash": "9v+W5M2RjApVw7IJfOT24GAP002/vjkn+0f5pgV7qRY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "overview/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "overview/toc.html",
+          "hash": "sn3hqRvfWF2KbkSGU1zjrulfaN9JDhUG7aSmg1By/Dw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/videos.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/videos.html",
+          "hash": "NTQ73rxTJWCgQ+Ei1DkKC7hsFgc+GvOm+amwn6mtH28="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "readme.html",
+          "hash": "icXEwzRUiDJhT7NeSrfcXjRmueIKHu4KWsOrgrbNSd0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "MUlQU/nC8oIz/pvgLtgTz2ujsDYxZEa2P/jNO1phB3I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 68,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 329,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
