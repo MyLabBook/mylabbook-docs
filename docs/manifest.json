@@ -1904,12 +1904,30 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "blogs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "blogs/toc.html",
+          "hash": "xDV83Z3WEKiFlCj6NeN6w4TXlCKRZhCbGKBo6r3BWR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Joqssrkn5u0OP5o4mWbdio88NPG4invuZ1tPGusuQns="
+          "hash": "e9Wb48BCHqpYHaQUQPiULArEDyXJNCy18yybRBJSPH4="
         }
       },
       "is_incremental": false,

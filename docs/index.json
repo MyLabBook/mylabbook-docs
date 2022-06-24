@@ -1837,7 +1837,7 @@
   "index.html": {
     "href": "index.html",
     "title": "MyLabBook Beta Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "MyLabBook Beta Documentation MyLabBook is a free and open source Electronic Lab Notebook with an MIT license, running on .NET 6.0 It is built using the Oqtane framework Documentation Contents In the Overview you'll find information about the project, concepts, building the documentation, and article and video links The Administration Manuals you'll find instructions for administrators In the API Documentation you'll find all the APIs To work on the docs, read up on how the docs work"
+    "keywords": "MyLabBook Beta Documentation MyLabBook is a Free and Open Source Electronic Lab Notebooks MyLabBook runs on .NET 6.0 and uses the MIT license It is built using the Oqtane framework This website focuses on documentation concerning this approach. Documentation Contents In the Overview you'll find information about the project, concepts, building the documentation, and article and video links The Administration Manuals you'll find instructions for administrators The Blogs has blogs for the legacy MyLabBook as well as our new approach with Oqtane In the API Documentation you'll find all the APIs To work on the docs, read up on how the docs work"
   },
   "overview/articles.html": {
     "href": "overview/articles.html",
