@@ -1,4 +1,4 @@
-# Documentation for MyLabBook Administration
+# MyLabBook Administration
 
 ![adminintrobanner](./assets/admin-intro-banner.png)
 

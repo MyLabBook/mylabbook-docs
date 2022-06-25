@@ -13,9 +13,9 @@
     <script src="https://cdn.azing.org/e/1/embed.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>MyLabBook Beta Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN </title>
+    <title>MyLabBook Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="MyLabBook Beta Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN ">
+    <meta name="title" content="MyLabBook Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN ">
     <meta name="generator" content="docfx 2.58.4.0">
     
     <link rel="shortcut icon" href="layout/images/favicon.png">
@@ -99,13 +99,81 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="mylabbook-beta-documentation">MyLabBook Beta Documentation</h1>
+<h1 id="mylabbook-documentation">MyLabBook Documentation</h1>
 
-<h3 id="mylabbook-is-a-free-and-open-source-electronic-lab-notebooks">MyLabBook is a Free and Open Source Electronic Lab Notebooks</h3>
-<p>MyLabBook runs on .NET 6.0 and uses the MIT license 
-It is built using the <a href="https://oqtane.org">Oqtane framework</a> </p>
-<p>This website focuses on documentation concerning this approach. </p>
+<h2 id="goals-for-mylabbook">Goals for MyLabBook</h2>
+<p><strong>We are building an Electronic Lab Notebook (ELN) for the future.</strong> We especially have in mind those in the academic or startup communities who may be constrained by 
+monetary budgets but have the time and interest in using and helping us to build a robust ELN for your own unique research.  </p>
+<p>Our goal is to learn from other successful projects and then to incorporate best practices that will lead to an outstanding ELN for the research community.
+We would love to have you join us. </p>
+<p>Some of our main goals include the following. </p>
+<ul>
+<li>Be free and open source with a liberal license</li>
+<li>Be fast and easy to install</li>
+<li>Be cross platform (Linux, Windows, Mac)</li>
+<li>Minimize the learning curve for immediate productivity </li>
+<li>Maximize the speed and productivity of development </li>
+<li>Be easily customizable for any research project</li>
+<li>Have excellent documentation for installation, customization, and for the internal architecture  </li>
+<li>Be built on widely supported technical foundations </li>
+<li>Have accuracy in scientific and technical computations </li>
+<li>Scale from Raspberry Pi up through sophisticated cloud computing</li>
+<li>Integrate with widely used research software packages as simply as possible </li>
+<li>Build on a strong open source community</li>
+<li>Have an efficient runtime </li>
+</ul>
+<h3 id="our-solution">Our Solution</h3>
+<p>In trying to meet these goals there are always trade-offs. Looking at the possibilities in 2022 and assessing the possibilities for the future, we have decided
+on the use of the <a href="https://oqtane.org">Oqtane framework</a> for MyLabBook going forward**. It is still a relatively young framework, but it has some fairly unique
+characteristics compared to other possibilities. </p>
+<ul>
+<li><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">Blazor</a> provides the following advantages. <ul>
+<li>Allows sophisticated front end development (i.e., the browser interface) using C#, the same language as is used for the server code.</li>
+<li>Utilizes WASM in the browser, opening up many previously unavaiable computational possibilities</li>
+<li>Productive environment through simplification of component building </li>
+<li>Long term support from Microsoft</li>
+<li>Liberal Apache license</li>
+<li>Excellent free and paid development environments (Visual Studio, VS Code, JetBrains Rider)</li>
+<li>Cross platform (Linux, Window, Mac)</li>
+</ul>
+</li>
+<li>The <a href="https://oqtane.org">Oqtane framework</a> provides the additional advantages.<ul>
+<li>Micro-frontend allowing separate backend feed-through. This will be useful for utilizing different scientific packages on the backend 
+with a common interface in the browser.</li>
+<li>Developed by a team with experience building DNN, the previously most successful open source .NET content management system</li>
+<li>Themeable</li>
+<li>Supports multiple databases (MySQL, PostgreSQL, SQL Server, SQLite)</li>
+<li>Supports extension through independent modules</li>
+<li>Liberal MIT license</li>
+</ul>
+</li>
+</ul>
+<h2 id="our-status">Our Status</h2>
+<p>How far are we towards meeting our goals? Again, this is a relative judgment, but the choice of Blazor and Oqtane already provide significant strengths. </p>
+<p>MyLabBook already has the following features. </p>
+<ul>
+<li>Free and open source with an MIT license</li>
+<li>Fast and easy to install for the standard installation</li>
+<li>Built on widely supported technical foundations of .NET and Blazor </li>
+<li>Accuracy in scientific and technical computations with C# and .NET</li>
+<li>Strong .NET and Blazor open source communities and a growing Oqtane community</li>
+<li>Have an efficient runtime with .NET CLR</li>
+<li>Free and productive development environments (Visual Studio Community edition, VS Code)</li>
+</ul>
+<p>While some of the following capabilities are available to varying degrees, there is also a need for improvement in these areas. Your participation can make a difference!</p>
+<p>Click the link to find out the current status of this goal and visions and plans for how these goals might be achieved more fully. </p>
+<ul>
+<li><a href="">More fully cross platform</a> (Linux, Windows, Mac)</li>
+<li><a href="">Minimization of the learning curve</a></li>
+<li><a href="">Maximization of the speed of development</a></li>
+<li><a href="">Customizability for any research project</a></li>
+<li><a href="">Excellent documentation</a> for installation, customization, and for the internal architecture  </li>
+<li><a href="">Scalability from a Raspberry Pi up through sophisticated cloud computing</a></li>
+<li><a href="">Integration with widely used research software packages</a> as simply as possible </li>
+<li><a href="">Development of a strong open source community for MyLabBook</a></li>
+</ul>
 <h2 id="documentation-contents">Documentation Contents</h2>
+<p>This website focuses on documentation concerning this approach of using Oqtane as the basis for an outstanding ELN. </p>
 <ol>
 <li>In the <a href="overview/index.html">Overview</a> you&#39;ll find information about the project, concepts, building the documentation, and article and video links</li>
 <li>The <a href="admin/index.html">Administration Manuals</a> you&#39;ll find instructions for administrators</li>
@@ -113,6 +181,7 @@ It is built using the <a href="https://oqtane.org">Oqtane framework</a> </p>
 <li>In the <a href="api/index.html">API Documentation</a> you&#39;ll find all the APIs</li>
 <li>To work on the docs, read up on <a href="overview/documentation/index.html">how the docs work</a></li>
 </ol>
+<p>** Note that this direction in development is a change from our use of the Drupal CMS for an ELN for the past 14 years</p>
 </article>
           </div>
           

@@ -903,7 +903,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/index.html",
-          "hash": "aZ/OmBWCdA7YUbRdENeNUwggCMTNunr187OeQntyz9E="
+          "hash": "S8EDEy97NIEMjHQcgUfOQDsz1JtNyJYVZp5a1Heft2o="
         }
       },
       "is_incremental": false,
@@ -1905,6 +1905,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "blogs/drupal-semantic-web/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "blogs/drupal-semantic-web/index.html",
+          "hash": "O1rBKaY8uJAS3ErFZhdgB9kINIqyuTBswjxsjK7JNSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "blogs/index.md",
       "output": {
         ".html": {
@@ -1917,11 +1929,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "blogs/installable-demo/index.md",
+      "source_relative_path": "blogs/installable-drupal-demo/index.md",
       "output": {
         ".html": {
-          "relative_path": "blogs/installable-demo/index.html",
-          "hash": "OI6MDbjiw03zhJxAw5uF1i5OUF1n6p1/4UKfxUCpMG8="
+          "relative_path": "blogs/installable-drupal-demo/index.html",
+          "hash": "fDgS9FR3xc1prT1eaQePDvOHqJ4e4JZ/64SZiqh48gI="
         }
       },
       "is_incremental": false,
@@ -1941,23 +1953,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "blogs/open-alternatives/index.md",
+      "source_relative_path": "blogs/open-source-alternatives/index.md",
       "output": {
         ".html": {
-          "relative_path": "blogs/open-alternatives/index.html",
-          "hash": "u6WP3Q9yhwww7TuCUzyb8NbJnHpV0oc1KwU94jH4GF8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "blogs/semweb-cake/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "blogs/semweb-cake/index.html",
-          "hash": "Pjv7adOwKEtfAjDLa7Nj4j7URgTxU0r7wDG+i/LQ/Rs="
+          "relative_path": "blogs/open-source-alternatives/index.html",
+          "hash": "eXl2UsnjnhQpH05Qrj/OH9Ovv3u3FOSX9Ay8ZBqxxhA="
         }
       },
       "is_incremental": false,
@@ -1972,7 +1972,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/toc.html",
-          "hash": "pT8TJ6EccoWhO0TkRcQ0zaz1PxrfEYT2kw7ALTWUmuE="
+          "hash": "VBVk+WldAkPG6uBSOKbBm2BHhC0PlItFrt7vknP/JIY="
         }
       },
       "is_incremental": false,
@@ -2032,7 +2032,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "TMtt0ZEgt/iYcTgOlwUswCMuSWzGBWuos4aFnzKgpZU="
+          "hash": "Le93sHzvRiaHfX06udhKXYysKu3KuJnKSd9G7ECQ/CA="
         }
       },
       "is_incremental": false,
