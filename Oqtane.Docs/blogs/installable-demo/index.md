@@ -1,4 +1,0 @@
-# MyLabBook Blog
-
- ## Installable Demo
-
