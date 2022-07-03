@@ -1,16 +1,16 @@
-# Oqtane Docs Builder
+# MyLabBook Docs Builder
 
-This project generates the documentation for Oqtane using [docfx](https://dotnet.github.io/docfx/).
+This project generates the documentation for the Oqtane version of MyLabBook using [docfx](https://dotnet.github.io/docfx/).
 
-It's explained in detail on https://docs.oqtane.org/articles/documentation/
+It's explained in detail on https://mylabbook.info/overview/documentation/. You can see the result at https://mylabbook.info. 
 
 ## Setup
 
 To set everything up, do the following:
 
-In some folder (like `c:\projects\oqtane`) pull this repo and also the oqtane.framework. You should then have something like
+In some folder (like `c:\projects\mylabbook`) pull this repo and also the [oqtane.framework](https://github.com/oqtane/oqtane.framework). You should then have something like
 
-* some-root\oqtane.docs
+* some-root\mylabbook.docs
 * some-root\oqtane.framework
 
 ## Run with Visual Studio
