@@ -24,7 +24,7 @@ Our goal is to incorporate best practices that will lead to an outstanding ELN f
 
 ## Our Solution
 
-In trying to meet these goals there are always trade-offs. Assessing the possibilities, we have decided to use of the [Oqtane framework](https://oqtane.org) 
+In trying to meet these goals there are always trade-offs. Assessing the possibilities, we have decided to use the [Oqtane framework](https://oqtane.org) 
 for MyLabBook going forward**. Oqtane is a relatively young framework, but it has some fairly unique characteristics. 
 
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) provides the following advantages. 
