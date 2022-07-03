@@ -6225,22 +6225,19 @@
       "output": {
         ".html": {
           "relative_path": "overview/goals/community.html",
-          "hash": "D4bir20JcofrK6xSGBX8v2W1bUNzBDVdud8u1QGA0iQ="
+          "hash": "+CZTxaAgzPXx21DwKxgGILKITrH/9xiaZdvDJQPv6q0="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "overview/goals/cross-platform.md",
       "output": {
         ".html": {
           "relative_path": "overview/goals/cross-platform.html",
-          "hash": "rczmm0XqxGEESpQMZChEhypVWGHyOhTEeQrIC6jHbEM="
+          "hash": "qJ0zEIkoGazoYzomf1oH5yYieCoGSRR3baYa7qFVuEc="
         }
       },
       "is_incremental": false,
@@ -6252,7 +6249,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/goals/customizability.html",
-          "hash": "EudZ92TJRI18QIcMgVYAU0u6l9NPFC56QZc9FOnL/zU="
+          "hash": "oMqDtIOMXxBiLjYpTWn64mQ3ut44eI5HSo5MR0DkSAg="
         }
       },
       "is_incremental": false,
@@ -6264,7 +6261,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/goals/documentation.html",
-          "hash": "Dixxx3So2ZJtkLyk1EdQBxndqzF7pJtRdo76yimVR8E="
+          "hash": "kRJobT5g+B4YLd4ZHq3uu4N3WZu04ahQNw9JnIjznr0="
         }
       },
       "is_incremental": false,
@@ -6276,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/goals/index.html",
-          "hash": "UJkRYAIvJz++oGCWGLeFJseftgA8ufzk+30Gmja0wDw="
+          "hash": "rF9I6HPhVMdSXLKezductmk6jPiGU32inZWNFXSCHa4="
         }
       },
       "is_incremental": false,
@@ -6324,7 +6321,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/goals/speedy-development.html",
-          "hash": "j9qvLR09nzLWRbliGc+tBrMTtQs/g73zzt2WNKBGIaQ="
+          "hash": "MwXSRpuDTlyVYi6eJcglRur46/Pk9oeXw0CANXG+F9I="
         }
       },
       "is_incremental": false,
@@ -6360,7 +6357,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/toc.html",
-          "hash": "n7v/2E/jhbANEQbkbEqqGFYs8IZMZS+HRGJbGWuig/Y="
+          "hash": "+r995DjPs/taPzLiI+wclpoj3riuoIdpoD1Vjq5/2g4="
         }
       },
       "is_incremental": false,

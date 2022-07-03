@@ -1916,28 +1916,28 @@
   },
   "overview/goals/community.html": {
     "href": "overview/goals/community.html",
-    "title": "Open Source Community | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Open Source Community There are many factors that make up a vibrant open source community. A key ingredient is of course an excellent product that meets the needs of its users. That is currently our first priority. After we finish our first Minimum Viable Product (MVP), then it will be easier to understand the advantages of our current approach with Oqtane. We always welcome your feedback."
+    "title": "Vibrant Open Source Community | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "Vibrant Open Source Community There are many factors that make up a vibrant open source community. A key ingredient is of course an excellent product that meets the needs of its users. That is currently our first priority. After we finish our first Minimum Viable Product (MVP), then it will be easier to understand the advantages of our current approach with Oqtane. We always welcome your feedback."
   },
   "overview/goals/cross-platform.html": {
     "href": "overview/goals/cross-platform.html",
-    "title": "Status of MyLabBook Goals | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Status of MyLabBook Goals MyLabBook already fully supports the following goals. Free and open source with an MIT license Fast and easy to install for the standard installation Built on widely supported technical foundations of .NET and Blazor Accuracy in scientific and technical computations with C# and .NET Strong .NET and Blazor open source communities and a growing Oqtane community Have an efficient runtime with .NET CLR Free and productive development environments (Visual Studio Community edition, VS Code) The remaining goals are available to varying degrees, with room for improvement. Click a link to find out the current status of the goal and plans for how these goals might be achieved more fully. More fully cross platform (Linux, Windows, Mac) Minimization of the learning curve Maximization of the speed of development Customizability for any research project Excellent documentation for installation, customization, and for the internal architecture Scalability from a Raspberry Pi up through sophisticated cloud computing Integration with widely used research software packages as simply as possible Development of a strong open source community for MyLabBook"
+    "title": "Cross Platform Capabilities | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "Cross Platform Capabilities The underlying technologies of MyLabBook are .NET Core , Blazor , and Oqtane . These technologies are all designed to be cross platform across Windows, Linux and MacOS. However, in practice, it seems that the platform currently works most robustly on the Windows platform with Microsoft Visual Studio. Progress is being made in the cross-platform and multi-database capabilities and we consider this a priority to achieve in an expedient way."
   },
   "overview/goals/customizability.html": {
     "href": "overview/goals/customizability.html",
-    "title": "Customizability | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Customizability Research is almost by its very nature unique in the project requirements. That is why customizability of an ELN for a research project is important. With Oqtane, the potential is now there and we are in the process of garnering best practices from other products to see how they can be adapted most fruitfully with Oqtane."
+    "title": "Easily Customized | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "Easily Customized Research is almost by its very nature unique in the project requirements. That is why customizability of an ELN for a research project is important. With Oqtane, the potential is now there and we are in the process of garnering best practices from other products to see how they can be adapted most fruitfully with Oqtane."
   },
   "overview/goals/documentation.html": {
     "href": "overview/goals/documentation.html",
-    "title": "Good Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Good Documentation Good documentation is so important with any open source project. This documentation will be expanded upon as we develop the details of MyLabBook on Oqtane."
+    "title": "Excellent Documentation | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "Excellent Documentation Excellent documentation is so important with any open source project. This documentation will be expanded upon as we develop the details of MyLabBook on Oqtane."
   },
   "overview/goals/index.html": {
     "href": "overview/goals/index.html",
     "title": "Status of MyLabBook Goals | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Status of MyLabBook Goals MyLabBook already fully supports the following goals. Free and open source with an MIT license Fast and easy to install for the standard installation Built on widely supported technical foundations of .NET and Blazor Accuracy in scientific and technical computations with C# and .NET Strong .NET and Blazor open source communities and a growing Oqtane community Have an efficient runtime with .NET CLR Free and productive development environments (Visual Studio Community edition, VS Code) The remaining goals are available to varying degrees, with room for improvement. Click a link to find out the current status of the goal and plans for how these goals might be achieved more fully. More fully cross platform (Linux, Windows, Mac) Minimization of the learning curve Maximization of the speed of development Customizability for any research project Excellent documentation for installation, customization, and for the internal architecture Scalability from a Raspberry Pi up through sophisticated cloud computing Integration with widely used research software packages as simply as possible Development of a strong open source community for MyLabBook"
+    "keywords": "Status of MyLabBook Goals MyLabBook already fully supports the following goals. Free and open source with an MIT license Fast and easy to install for the standard installation Built on widely supported technical foundations of .NET and Blazor Accuracy in scientific and technical computations with C# and .NET Strong .NET and Blazor open source communities and a growing Oqtane community Have an efficient runtime with .NET CLR Free and productive development environments (Visual Studio Community edition, VS Code) The remaining goals are available to varying degrees, with room for improvement. Click a link to find out the current status of the goal and plans for how these goals might be achieved more fully. More fully cross platform (Linux, Windows, Mac) Development of a strong open source community for MyLabBook Customizability for any research project Excellent documentation for installation, customization, and for the internal architecture Integration with widely used research software packages as simply as possible Minimization of the learning curve Maximization of the speed of development Scalability from a Raspberry Pi up through sophisticated cloud computing"
   },
   "overview/goals/integration.html": {
     "href": "overview/goals/integration.html",
@@ -1956,8 +1956,8 @@
   },
   "overview/goals/speedy-development.html": {
     "href": "overview/goals/speedy-development.html",
-    "title": "Optimize Speed of Development | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "Optimize Speed of Development As the pace of research and progress accelerate, it is advantageous to have a platform where the speed of customization has been optimized. A low-code or no-code approach will help in this goal."
+    "title": "Optimize the Speed of Development | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
+    "keywords": "Optimize the Speed of Development As the pace of research and progress accelerate, it is advantageous to have a platform where the speed of customization has been optimized. A low-code or no-code approach will help in this goal."
   },
   "overview/index.html": {
     "href": "overview/index.html",
