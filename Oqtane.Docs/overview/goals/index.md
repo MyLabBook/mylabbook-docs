@@ -14,11 +14,11 @@ MyLabBook already fully supports the following goals.
 The remaining goals are available to varying degrees, with room for improvement. 
 Click a link to find out the current status of the goal and plans for how these goals might be achieved more fully. 
 
-* [More fully cross platform (Linux, Windows, Mac)]()
-* [Minimization of the learning curve]()
-* [Maximization of the speed of development]()
-* [Customizability for any research project]()
-* [Excellent documentation for installation, customization, and for the internal architecture]()  
-* [Scalability from a Raspberry Pi up through sophisticated cloud computing]()
-* [Integration with widely used research software packages as simply as possible]() 
-* [Development of a strong open source community for MyLabBook]()
+* [More fully cross platform (Linux, Windows, Mac)](./cross-platform.md)
+* [Minimization of the learning curve](./learning-curve.md)
+* [Maximization of the speed of development](./speedy-development.md)
+* [Customizability for any research project](./customizability.md)
+* [Excellent documentation for installation, customization, and for the internal architecture](./documentation.md)  
+* [Scalability from a Raspberry Pi up through sophisticated cloud computing](./scalability.md)
+* [Integration with widely used research software packages as simply as possible](integration.md) 
+* [Development of a strong open source community for MyLabBook](./community.md)
