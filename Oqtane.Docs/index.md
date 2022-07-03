@@ -40,7 +40,7 @@ for MyLabBook going forward**. Oqtane is a relatively young framework, but it ha
   * Developed by a team with experience building [DNN](https://www.dnnsoftware.com/), the most successful open source .NET content management system to date
   * Themeable
   * Supports multiple databases (MySQL, PostgreSQL, SQL Server, SQLite)
-  * SHighly extensible through independent modules
+  * Highly extensible through independent modules
   * Liberal MIT license
 
 ## The Status of MyLabBook Development
@@ -78,7 +78,6 @@ This documentation for MyLabBook is structured as follows.
 1. [Administration Manuals](./admin/index.md) has instructions for administrators
 1. [Development](./development/index.md) has information about the structure of the Oqtane code and default custom modules and how to make your own modules  
 1. [Examples](./examples/index.md) has various examples for how you might extend MyLabBook for your own use
-1. [Blogs](./blogs/index.md) cover both the legacy MyLabBook for Drupal as well as our new approach with Oqtane  
 1. [Code Documentation](./api/index.md) is extracted from the source code and organized for easy access 
 1. To work on the docs, read up on [how the docs work](./overview/documentation/index.md)
 

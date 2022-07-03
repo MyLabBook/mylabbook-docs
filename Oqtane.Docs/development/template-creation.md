@@ -26,7 +26,7 @@ protected override [Module]EntityBuilder BuildTable(ColumnsBuilder) Table {
 public OperationBuilder<AddColumnOperation> MyNewFieldName { get; set; }
 ```
 
-**/Client/Modules/Edit.razor** - Changed 5 different places for each field. Michael's write-up can be used as a guide or a diff can be made between the default template and the files in this template. 
+**/Client/Modules/Edit.razor** - Changed 5 different places for each field. Michael's write-up can be used as a guide. 
 
 Once these changes are made, then the template should show up in the drop down for the template to use for a custom module. 
 If this template is chosen, then it should create a module with the new fields that have been added in this template. 
