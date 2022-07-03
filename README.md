@@ -8,7 +8,7 @@ It's explained in detail on https://mylabbook.info/overview/documentation/. You 
 
 To set everything up, do the following:
 
-In some folder (like `c:\projects\mylabbook`) pull this repo and also the [oqtane.framework](https://github/oqtane/oqtane.framework). You should then have something like
+In some folder (like `c:\projects\mylabbook`) pull this repo and also the [oqtane.framework](https://github.com/oqtane/oqtane.framework). You should then have something like
 
 * some-root\mylabbook.docs
 * some-root\oqtane.framework
