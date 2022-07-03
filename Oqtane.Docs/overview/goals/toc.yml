@@ -1,0 +1,25 @@
+
+- name: Overall Goal Status
+  href: index.md
+
+- name: Cross Platform
+  href: cross-platform.md
+
+- name: Open Source Community 
+  href: community.md
+
+- name: Easily Customized
+  href: customizability.md
+
+- name: Good Documentation
+  href: documentation.md
+
+- name: Integration with Other Software
+  href: integration.md
+
+- name: Easy Learning Curve
+  href: learning-curve.md
+
+- name: Scalability across Platforms
+  href: scalability.md
+

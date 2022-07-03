@@ -1957,7 +1957,7 @@
       "output": {
         ".html": {
           "relative_path": "examples/index.html",
-          "hash": "JDgdahJukKepc5ctXSE0kp5kje945uQfLhY9HmmZm8Y="
+          "hash": "0/GoOqiHQ48FqTd9B/Nn3WjLxc5XtnnXAao2cLNj29o="
         }
       },
       "is_incremental": false,
@@ -1981,7 +1981,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "z16Ipp6xbBYI7+QRxe5gnB5GrbxFRmILznPN/oQWKVE="
+          "hash": "fB52yAcwP8I6umM6giQkEuEMnh6yeCab66M8+0gcZSw="
         }
       },
       "is_incremental": false,
@@ -6221,6 +6221,102 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "overview/goals/community.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/community.html",
+          "hash": "D4bir20JcofrK6xSGBX8v2W1bUNzBDVdud8u1QGA0iQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/cross-platform.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/cross-platform.html",
+          "hash": "7C93nNo9uswQH3PHyktBgw5GZkMxD9YbFlj5sj3Jg5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/customizability.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/customizability.html",
+          "hash": "EudZ92TJRI18QIcMgVYAU0u6l9NPFC56QZc9FOnL/zU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/documentation.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/documentation.html",
+          "hash": "Dixxx3So2ZJtkLyk1EdQBxndqzF7pJtRdo76yimVR8E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/index.html",
+          "hash": "5UcahHI32NFpEm07VRJ51ptp4tiQIcabKCd3aLTGK3U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/integration.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/integration.html",
+          "hash": "CX0stQb/oVxp//74zVw8NMpt0vq1w5h72JWNdrALeXw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/learning-curve.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/learning-curve.html",
+          "hash": "42nZb7Il5YjYZYTxTXmM/aAxropXMFFLIEESGY3M4GQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "overview/goals/scalability.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/scalability.html",
+          "hash": "hKeqDh49DlgRQQ8+e12KNDijO5lUF70UMsB7S7wJylQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "overview/index.md",
       "output": {
         ".html": {
@@ -6249,7 +6345,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/toc.html",
-          "hash": "sn3hqRvfWF2KbkSGU1zjrulfaN9JDhUG7aSmg1By/Dw="
+          "hash": "Vah+HGoB9QzDplOTj+tctlqVxDA5yAKjCt9BBoyX9bs="
         }
       },
       "is_incremental": false,
@@ -6295,25 +6391,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Disable incremental build by force rebuild option.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ForceRebuild"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 72,
-          "skipped_file_count": 0
+          "total_file_count": 80,
+          "skipped_file_count": 79
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 329,
-          "skipped_file_count": 0
+          "skipped_file_count": 329
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

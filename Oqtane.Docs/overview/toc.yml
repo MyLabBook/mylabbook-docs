@@ -6,13 +6,17 @@
   href: concepts/toc.yml
   homepage: concepts/  
 
-- name: Documentation
-  # topicUid: Article.Docs.Index
-  href: documentation/toc.yml
-  homepage: documentation/
-
 - name: Articles
   href: articles.md
 
 - name: Videos
   href: videos.md
+
+- name: Goals
+  href: goals/toc.yml
+  homepage: goals/  
+
+- name: Documentation
+  href: documentation/toc.yml
+  homepage: documentation/
+

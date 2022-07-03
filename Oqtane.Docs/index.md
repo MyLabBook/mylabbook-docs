@@ -2,10 +2,11 @@
 
 ## Goals for MyLabBook
 
-**We are building an Electronic Lab Notebook (ELN) for the future.** We especially have in mind those in the academic or startup communities who may be financially 
-constrained but have the time and interest in using and helping to build a robust ELN for your own unique research and/or teaching needs.  
+**We are building an open source Research Platform for the future, beginning with focusing on an Electronic Lab Notebook (ELN).** We especially have in mind 
+those in the academic or startup communities who may be financially constrained but have the time and interest in using and helping to build a robust ELN 
+for their own unique research and/or teaching needs.  
 
-Our goal is to incorporate best practices that will lead to an outstanding ELN for the research community. Our main goals include the following. 
+Our goal is to incorporate best practices that will lead to an outstanding ELN for the research community. Our [main goals](./overview/goals/index.md) include the following. 
 
 * Free and open source with a liberal license
 * Fast and easy to install
@@ -42,33 +43,6 @@ for MyLabBook going forward**. Oqtane is a relatively young framework, but it ha
   * Supports multiple databases (MySQL, PostgreSQL, SQL Server, SQLite)
   * Highly extensible through independent modules
   * Liberal MIT license
-
-## The Status of MyLabBook Development
-
-How far are we towards meeting our goals? This is a relative judgment, but the choice of Blazor and Oqtane provide significant strengths. 
-
-MyLabBook already fully supports the following goals. 
-
-* Free and open source with an MIT license
-* Fast and easy to install for the standard installation
-* Built on widely supported technical foundations of .NET and Blazor 
-* Accuracy in scientific and technical computations with C# and .NET
-* Strong .NET and Blazor open source communities and a growing Oqtane community
-* Have an efficient runtime with .NET CLR
-* Free and productive development environments (Visual Studio Community edition, VS Code)
-
-The remaining goals are available to varying degrees, with room for improvement. 
-Click a link to find out the current status of the goal and plans for how these goals might be achieved more fully. 
-
-* [More fully cross platform (Linux, Windows, Mac)]()
-* [Minimization of the learning curve]()
-* [Maximization of the speed of development]()
-* [Customizability for any research project]()
-* [Excellent documentation for installation, customization, and for the internal architecture]()  
-* [Scalability from a Raspberry Pi up through sophisticated cloud computing]()
-* [Integration with widely used research software packages as simply as possible]() 
-* [Development of a strong open source community for MyLabBook]()
-
 
 ## Documentation Contents
 
