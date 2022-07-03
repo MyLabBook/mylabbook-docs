@@ -1,3 +1,9 @@
 
 - name: Introduction
   href: index.md
+
+- name: Template Creation
+  href: template-creation.md
+
+- name: Module Modification
+  href: module-modification.md
