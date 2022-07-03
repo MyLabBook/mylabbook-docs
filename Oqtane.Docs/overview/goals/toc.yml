@@ -20,6 +20,9 @@
 - name: Easy Learning Curve
   href: learning-curve.md
 
+- name: Optimize Speed of Development
+  href: speedy-development.md
+
 - name: Scalability across Platforms
   href: scalability.md
 

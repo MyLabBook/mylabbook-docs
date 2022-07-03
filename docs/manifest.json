@@ -1957,7 +1957,7 @@
       "output": {
         ".html": {
           "relative_path": "examples/index.html",
-          "hash": "0/GoOqiHQ48FqTd9B/Nn3WjLxc5XtnnXAao2cLNj29o="
+          "hash": "zYl+8ZaE+WMPMjBOOQuURdGI3UjEsaKAvmyBvYro3jw="
         }
       },
       "is_incremental": false,
@@ -6232,12 +6232,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "overview/goals/cross-platform.md",
       "output": {
         ".html": {
           "relative_path": "overview/goals/cross-platform.html",
-          "hash": "7C93nNo9uswQH3PHyktBgw5GZkMxD9YbFlj5sj3Jg5s="
+          "hash": "rczmm0XqxGEESpQMZChEhypVWGHyOhTEeQrIC6jHbEM="
         }
       },
       "is_incremental": false,
@@ -6317,6 +6320,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "overview/goals/speedy-development.md",
+      "output": {
+        ".html": {
+          "relative_path": "overview/goals/speedy-development.html",
+          "hash": "j9qvLR09nzLWRbliGc+tBrMTtQs/g73zzt2WNKBGIaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "overview/index.md",
       "output": {
         ".html": {
@@ -6345,7 +6360,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/toc.html",
-          "hash": "Vah+HGoB9QzDplOTj+tctlqVxDA5yAKjCt9BBoyX9bs="
+          "hash": "n7v/2E/jhbANEQbkbEqqGFYs8IZMZS+HRGJbGWuig/Y="
         }
       },
       "is_incremental": false,
@@ -6391,23 +6406,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 80,
-          "skipped_file_count": 79
+          "total_file_count": 81,
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 329,
-          "skipped_file_count": 329
+          "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
