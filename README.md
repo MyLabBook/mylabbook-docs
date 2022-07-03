@@ -1,6 +1,6 @@
 # MyLabBook Docs Builder
 
-This project generates the documentation for MyLabBook using [docfx](https://dotnet.github.io/docfx/).
+This project generates the documentation for the Oqtane version of MyLabBook using [docfx](https://dotnet.github.io/docfx/).
 
 It's explained in detail on https://mylabbook.info/overview/documentation/. You can see the result at https://mylabbook.info. 
 
