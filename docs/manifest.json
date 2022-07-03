@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/MSI/Projects/MyLabBook/oqtane-docs/Oqtane.Docs",
+  "source_base_path": "C:/Users/MSI/Projects/MyLabBook/mylabbook-docs/Oqtane.Docs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -205,7 +205,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/file-management.html",
-          "hash": "L9EmvocL2KAJ39A39evrYCYcVxBUG3TZG46dZ2Z+qtg="
+          "hash": "VIUABiVUxqu6TpYZUuuWk30NvEp8lMDt1zyZnXYlTsk="
         }
       },
       "is_incremental": false,
@@ -217,7 +217,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/index.html",
-          "hash": "RHwV3XSCeiGrNzkUBfeG75mWc4NoWhn0jwsxueZaj5c="
+          "hash": "2Y1Ivjywkx8vZ44ol77A7aFctx/yIpEC/S9twxXRjMw="
         }
       },
       "is_incremental": false,
@@ -229,7 +229,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/page-management.html",
-          "hash": "JrSFcHdGYHs8a3lnfBPjMjqcjSaUuOzk0vJ4YmkqR60="
+          "hash": "+QpJijP2d4dGCaJ0OxOhX7b1o6NgC7M/XnSj0P3kgg8="
         }
       },
       "is_incremental": false,
@@ -241,7 +241,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/profile-management.html",
-          "hash": "/Rs/8h0LhZtFZRXdl0LCoYqRbbq1xCG5ITeLHN9G740="
+          "hash": "BPvyBV1v+LFcbDGECTQ+sZzY6dEzvNLrw2BShuNdFHs="
         }
       },
       "is_incremental": false,
@@ -253,7 +253,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/recycle-bin.html",
-          "hash": "qzeZchKXF2tYS2SKpReC0HEa94t9ToaqTnakxXAo2RU="
+          "hash": "MawdYxxja3aIXsyOzqzmBT82EaCKdyKb1hCtDkOR09E="
         }
       },
       "is_incremental": false,
@@ -265,7 +265,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/role-management.html",
-          "hash": "HYSLqBq6QYPcr3Mnbfwz4npve+fxg0XlB4+Me50UCOU="
+          "hash": "o6XnWkftwHAFguo2nTqy0uyzMO4JZFv5iHfUED93+04="
         }
       },
       "is_incremental": false,
@@ -277,7 +277,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/site-settings.html",
-          "hash": "cc0LRLar2PcU3BzXwbZp/rlrRLJhSSABkpH7xB2cr9w="
+          "hash": "Wo2Cml0vSL7GNTqEamm9qiOl1y+xAg0Q2X1SDvxE2S0="
         }
       },
       "is_incremental": false,
@@ -301,7 +301,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-dashboard/user-management.html",
-          "hash": "XjeYsXMM7YhYM2/zwVXNAGRt10Yxjo7evy/rCMMUoEM="
+          "hash": "Gj9eAwABAVnhPy3hglAUvEJTaJf/Fm/FxkN4B1zFfeo="
         }
       },
       "is_incremental": false,
@@ -316,7 +316,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-navigation/admin-dashboard.html",
-          "hash": "nZG/t25qEIuDMqtbmTPm5F+xxbKQ48RcL1VCfJ3mZaI="
+          "hash": "jWMV+fz6neR53yjpARxTrr1fVzi2sJGoGaQ5u4iaT9M="
         }
       },
       "is_incremental": false,
@@ -419,7 +419,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-navigation/control-panel.html",
-          "hash": "gaEd+btctsehv4IkXuXLJZNb3YOlxlgQlm5S4bjqsOA="
+          "hash": "7G6RUk3rPvV5Me2iFZk2VJvJe0lGAHpVqqhZ313DzAA="
         }
       },
       "is_incremental": false,
@@ -500,7 +500,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-navigation/control-panel/control-page.html",
-          "hash": "7okrol4DAQ0QM1kV5v78KlB6/zppdUmavLHqfDby5SA="
+          "hash": "97fyP2A3G4rGv3MzVizIesSQjer6f0Ib9RJop7JEyfc="
         }
       },
       "is_incremental": false,
@@ -515,7 +515,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-navigation/control-panel/modules.html",
-          "hash": "JV1ouWjhbJkTC+1HVgDH7tSGDphBFZita9xyxQGOS1M="
+          "hash": "0ujDW9utyXqFyqOvYw6w3ibHAoZm/EdWATt9e0z4v68="
         }
       },
       "is_incremental": false,
@@ -545,7 +545,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/admin-navigation/index.html",
-          "hash": "LQt/aCfk3amL19AsznDhcYygqj5ZwaVGjzRgwADKVew="
+          "hash": "Q9MghTw2tPBzM1eyZpR6cx8GWu8Qo+e93hoi00otfEI="
         }
       },
       "is_incremental": false,
@@ -656,7 +656,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/control-panel/control-page.html",
-          "hash": "odUBwC0T2vST4R6bonlpS5iuIfZ5ArhlDSf9CVfuJg4="
+          "hash": "ikUu1MZ+tZ/6u66GhprMEGPedTsrlXY9bYpO8GhJ3xM="
         }
       },
       "is_incremental": false,
@@ -668,7 +668,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/control-panel/index.html",
-          "hash": "buwi0ueRTLUsMhkPVumqrBLPID4iueCQ0osALgXyinA="
+          "hash": "EFfMFgHaSlySO2Vf9Hu22yMizUhGt+NPsJi6lxYjT9g="
         }
       },
       "is_incremental": false,
@@ -680,7 +680,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/control-panel/modules.html",
-          "hash": "G0BUwVXJjJWWsAGHoc32Co2TKpiHkfXOYFK1IkengOM="
+          "hash": "aa+dizcDOckNeP4AHEUX48syCV7Yu8aslc+G4fZ0lm4="
         }
       },
       "is_incremental": false,
@@ -792,7 +792,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/event-log.html",
-          "hash": "H9m/BSVnNrlRpnSE2oXIvWdPtwbSx/Gy7Dvu+9ihmGw="
+          "hash": "l8I9gcPK9JFn+fEEySD29B1uKgmytMJ+SppNS9IFUmg="
         }
       },
       "is_incremental": false,
@@ -804,7 +804,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/index.html",
-          "hash": "Q6gavzt0WVfBzos+Ge56Tvs8hUVZA7QnAOSECfBFvz0="
+          "hash": "eG0dYk7kU9VPt9dDHy/2NCC0Qvnng8RlV02qF7aD8dg="
         }
       },
       "is_incremental": false,
@@ -816,7 +816,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/module-management.html",
-          "hash": "pIoVrDK4YnUULyUEU6YGQYb42WNWspe43qRnL2SpegM="
+          "hash": "jwbPJPexFOZuY0BDs7WQIsPKeQeuQH2sS9+L/MzOo2U="
         }
       },
       "is_incremental": false,
@@ -828,7 +828,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/scheduled-jobs.html",
-          "hash": "sHuZ9xggsqr8Rgc4fJ9Gwo0nmv4XyVyDttlHNDl1agY="
+          "hash": "O0t8rnwuxuEYYHqiO7mVdiqllccMobFDRRYRBuFWeUI="
         }
       },
       "is_incremental": false,
@@ -840,7 +840,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/site-management.html",
-          "hash": "92L7YHWj3FFuOygLjhSO55wjJqlcxCIQru7L/diWg5Q="
+          "hash": "wVgrHiITCzL5FkZkFLQ+mtsGwmrCAb2WJkHMs13kFLo="
         }
       },
       "is_incremental": false,
@@ -852,7 +852,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/sql-management.html",
-          "hash": "yrahKouMx5ISnP4djxqRshKeIhqFg8fYO6tFzwnkaJ8="
+          "hash": "N0RJKwayxhloLpIYdbclr71hMr1dBSLRyqgOaXGqPV8="
         }
       },
       "is_incremental": false,
@@ -864,7 +864,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/system-info.html",
-          "hash": "19GAtth8EMcX4n5hQMfse9sETAZQv8fA/zXX4z3wxpA="
+          "hash": "6BJQdy9UhO38YvG9EmEkbF/5CHAnO8U27yZGHtCFVcY="
         }
       },
       "is_incremental": false,
@@ -876,7 +876,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/system-update.html",
-          "hash": "svbcIkqxyJs5d2MDFrFJz8DP25NEGGABi2a/AHzech8="
+          "hash": "5iZGLU+KFet61o+YlOOQGtub7F58DdIEVyhTA6g3zsQ="
         }
       },
       "is_incremental": false,
@@ -888,7 +888,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/host-administration/theme-management.html",
-          "hash": "israRlADdfZqa/mOblhoPopuQ01ay1N3wfQwgeWOYdQ="
+          "hash": "UwajdQslb5Mg+Xolcct97gQzTq7uFVO2gRnMAz8yR5A="
         }
       },
       "is_incremental": false,
@@ -903,7 +903,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/index.html",
-          "hash": "S8EDEy97NIEMjHQcgUfOQDsz1JtNyJYVZp5a1Heft2o="
+          "hash": "mRPY3fQ6tkoI81Wo5h5yM+hHh7tShuTRz09SmlBJIuo="
         }
       },
       "is_incremental": false,
@@ -926,7 +926,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/installation/index.html",
-          "hash": "jf+tr+SBkw5+Ui+GB1naK7hZvnnghwLYYOg0rwVFAFk="
+          "hash": "g5jJf3JB4A8+GaDzgd8yvSi4Du2+YmOxLwAXs852TGw="
         }
       },
       "is_incremental": false,
@@ -941,7 +941,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/add-ext-modules.html",
-          "hash": "i5i3axSpw4q+yxwLKwvgtYXNGF3CYZGA0c449TuZo7w="
+          "hash": "jl4BpvNk0fEV2ycGydcZ21vOiBUXfXyIf7wp8rfFqFM="
         }
       },
       "is_incremental": false,
@@ -956,7 +956,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/adding-modules.html",
-          "hash": "LROKDOfXRzMOoQcbymyVDKnnK3sz5jSpvqFNg1AHwx8="
+          "hash": "BczmbYJ8hq7EzF3iah9WGBe2NuQBFJvrFHXZoj2b7eg="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/creating-modules.html",
-          "hash": "lEuPDANZla8KNqBh8nMq0pBuRKEvoFPyaPlmP85qJ6Y="
+          "hash": "G4+F4uJKL2l26zaTKSp/l5VAR78JdDYP3XsRWXW87wA="
         }
       },
       "is_incremental": false,
@@ -1104,7 +1104,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/default-modules.html",
-          "hash": "WsKPg/LwP77BFTlqbisjRmC7krhOCqyqWxk4VLXF7Qs="
+          "hash": "bpDRS/iAqF1BQPVxypxidwnP4hcJp2BDsoog0Q1gn2c="
         }
       },
       "is_incremental": false,
@@ -1116,7 +1116,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/htmledit-module.html",
-          "hash": "+df+Ee1nOMT8s15K9puS6Z8uhutcbGJdP7QdRghVCzM="
+          "hash": "CF/3v0Za/CEbRop+jaVXl6A5I6XhVwJWi+5wAlfPDgw="
         }
       },
       "is_incremental": false,
@@ -1131,7 +1131,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/index.html",
-          "hash": "+bJ4fES3Ro2uyQ91u+Mf+p2GWTBlyyL2cJYGjdZjj7g="
+          "hash": "o/uXKfIee8W/1II3LT4twCut5EbPkRCS9pfEI7Vsx0g="
         }
       },
       "is_incremental": false,
@@ -1143,7 +1143,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/modules/working-with-modules.html",
-          "hash": "zlzfLIiV5/jEURFXqka4ru8cATJdHYhCzCv9HSzeo38="
+          "hash": "zyzDRF65JAAF2FrHldUtNRWZJEkTYYFZekJP48crSms="
         }
       },
       "is_incremental": false,
@@ -1323,7 +1323,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/pages/creating-page.html",
-          "hash": "J2Kp/q/p+wBvJpD69Nj5QOazXBuhn/2qkryQvK0CoOM="
+          "hash": "OaWtI3VdLruFyZ8yBuUrhtHyad2/5NMjL7Wseup2Nko="
         }
       },
       "is_incremental": false,
@@ -1338,7 +1338,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/pages/editing-page.html",
-          "hash": "cWgWel4eBajEP6Lzp897uiEc6Iarbx/YyFVne7uoIMY="
+          "hash": "8BXaoLSK13SRBwZ6OWzGwAyHLudv5NFl+rdacbnbwEk="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/pages/index.html",
-          "hash": "O4Ukpmg2xaG9rt+jxVdR6yIXdhHhdEGgpLbaJpLaFJg="
+          "hash": "ZM7ucJFNLONuURxVbq/046XNuX6tfnUaEIxoQCYcV4I="
         }
       },
       "is_incremental": false,
@@ -1368,7 +1368,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/pages/page-settings.html",
-          "hash": "jd1ILlcNa0gtb6dHXfmQYC3j6J8L5PN71rIfTS4r5cM="
+          "hash": "co9EreUgNX5YO4T948ojuzlZFnP6dhaPT/82FxuKbLo="
         }
       },
       "is_incremental": false,
@@ -1699,7 +1699,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/content-editor.html",
-          "hash": "CpWJYlvGYaZSslQU+zq+tZYhwkGwYkpZj0kfIXnfEB4="
+          "hash": "XyVa9KbxKeyiEBGT9ZW0aW2goicAMWOq9rwVYtpepl4="
         }
       },
       "is_incremental": false,
@@ -1711,7 +1711,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/file-management.html",
-          "hash": "oI13n0LF2jHRNaY2wtmvBPzjUEg3D/Ir0c7ij4W/yEE="
+          "hash": "mtJnphPU42EjugISTgDeVMXw3YnL0jWRh310NIJgFps="
         }
       },
       "is_incremental": false,
@@ -1726,7 +1726,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/index.html",
-          "hash": "gWujxVFVGLv7LPLo5nPjtqIGSnVrUs18EzHzCAw+Q/Y="
+          "hash": "VEnQfMNWLXwIAD+HYnS9cV6OSSCefTzi7PgO3iDApbc="
         }
       },
       "is_incremental": false,
@@ -1741,7 +1741,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/language-management.html",
-          "hash": "va5NiloMfI26hgO/PXbg91UZ9lBfSo20rupYgFXzdcc="
+          "hash": "29nfByOCP/UXuCd0qq5hhnl+eBf2DBzgx+WSyCLADiQ="
         }
       },
       "is_incremental": false,
@@ -1753,7 +1753,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/page-management.html",
-          "hash": "5+yOxpsD14Ex7F3WHcU3e4iMvdlqq2yEuTSXuOA1W/c="
+          "hash": "pyTTOQyoQHX4njNonmEE67pXrPO1jXva2fYziyKw9Pw="
         }
       },
       "is_incremental": false,
@@ -1765,7 +1765,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/profile-management.html",
-          "hash": "kDzL9BkYudhODh6Wy2ff5lC7vxmERUyuHrQAvTwWmCQ="
+          "hash": "Ngzy07R+WMf5tChTzQpoFy/PRSp7vcUta7wOMBsLSJo="
         }
       },
       "is_incremental": false,
@@ -1777,7 +1777,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/recycle-bin.html",
-          "hash": "pbSOyLBNAa6Af3EFEzx4r+1Vofke/LVRRxZcLm0mRpI="
+          "hash": "dPluKxgoMMVI63vUrdzn+WI6Rm/UMz6bO9ELPydzLCA="
         }
       },
       "is_incremental": false,
@@ -1792,7 +1792,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/role-management.html",
-          "hash": "B1IzZbW/ZvTZPbB+j9roj45x0cCUwPj4OKo32dP/Hk4="
+          "hash": "zWn/vXGzlJglJO/BVwlgr3K9sWHSD2DomGCsFXQNaOY="
         }
       },
       "is_incremental": false,
@@ -1804,7 +1804,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/site-settings.html",
-          "hash": "DmjaplNNsixxxVaFNOYz8zDFnIU0wdeF9ewXdtybtlE="
+          "hash": "MUkSM0fxXFOExT2cWNAWb6+76jdUuxuUSYm7pkzug5s="
         }
       },
       "is_incremental": false,
@@ -1819,7 +1819,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/url-mappings.html",
-          "hash": "ZpbXGRhO6YLLCX1Hs/aepsjXGkKlbTvH1NCFWZ4L6GU="
+          "hash": "mrkRI/YGq5raQeY05y3qMQtWyfEINbCxFvR5XWbHzSI="
         }
       },
       "is_incremental": false,
@@ -1831,7 +1831,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/user-management.html",
-          "hash": "Yp9/79RWbTMTAN/v+qwG6qO8X7DizKrx1I8QnCso3KU="
+          "hash": "oEKrCq80r+g1o6HFqkC30aDcnUZJZx5Ba1LciLiCbPM="
         }
       },
       "is_incremental": false,
@@ -1843,7 +1843,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/user-profile.html",
-          "hash": "loMYQ6Qu/p2ITNXx3Yo8/M+dmCtH5r/QNAGJ9SiDVfc="
+          "hash": "/etyaV6ih9i1LvpENXAmDUpj37lzeouuoksk4X0Ox24="
         }
       },
       "is_incremental": false,
@@ -1858,7 +1858,7 @@
       "output": {
         ".html": {
           "relative_path": "admin/site-administration/visitor-management.html",
-          "hash": "yAVaXCNTE6alCjynasnYXhZOqhJLcK99TLdIz/t8PqM="
+          "hash": "JwXdDbvGV4gMIl/+vH6z0JxWkbkA2srofh/bz3wJnAE="
         }
       },
       "is_incremental": false,
@@ -1882,7 +1882,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "HrBybrFxuFL/ctZQ/3Yajql8JplSLCLW6O2CujIMblk="
+          "hash": "vUC+JaXr9GzbVrPuYbU0EGb9UDqO0YHPxxadSzqJPO4="
         }
       },
       "is_incremental": false,
@@ -1909,7 +1909,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/drupal-semantic-web/index.html",
-          "hash": "O1rBKaY8uJAS3ErFZhdgB9kINIqyuTBswjxsjK7JNSY="
+          "hash": "7vLEqcSjA5+/6RN0DhBuqav+MjVmQgXcNWN+sLRhKiU="
         }
       },
       "is_incremental": false,
@@ -1921,7 +1921,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/index.html",
-          "hash": "M+PySgavFpDkDLEbnBHDiVXRMjem9Fb7eHjlwW70Xkw="
+          "hash": "ZoMFZnL+tGZmXDdv22btcJypraOW5IFaqJObTIyvenc="
         }
       },
       "is_incremental": false,
@@ -1933,7 +1933,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/installable-drupal-demo/index.html",
-          "hash": "fDgS9FR3xc1prT1eaQePDvOHqJ4e4JZ/64SZiqh48gI="
+          "hash": "ogHQYIQFyI5lElJXYD+LeeFZ2ngGJ4bu38LsZGRags0="
         }
       },
       "is_incremental": false,
@@ -1945,7 +1945,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/move-to-oqtane/index.html",
-          "hash": "9HBgi7IZWUmu/1QJA/ETjNBKtOClTCbsN0F/LrzpYCc="
+          "hash": "ERq6GMXbl26vW6lqP6vUoaQnVveftKbpUjSZyybhhrw="
         }
       },
       "is_incremental": false,
@@ -1957,7 +1957,7 @@
       "output": {
         ".html": {
           "relative_path": "blogs/open-source-alternatives/index.html",
-          "hash": "eXl2UsnjnhQpH05Qrj/OH9Ovv3u3FOSX9Ay8ZBqxxhA="
+          "hash": "fbeWo6UnOKegNVfSdDREvSeFRfaZ23IJPn7oUETL9KU="
         }
       },
       "is_incremental": false,
@@ -1984,7 +1984,31 @@
       "output": {
         ".html": {
           "relative_path": "development/index.html",
-          "hash": "cj1SauU6NW8auU+ETV8YuTNpsVJ6RVz7wGWXu/fOCeY="
+          "hash": "mW7nWOUiau+1mDAuzwUqLXOOxL4mmRat0lFfBeYLRAg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "development/module-modification.md",
+      "output": {
+        ".html": {
+          "relative_path": "development/module-modification.html",
+          "hash": "u+TsIb3XAnMFh/cpfucetW4VQBXT6o/m7rxT2YZVCJY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "development/template-creation.md",
+      "output": {
+        ".html": {
+          "relative_path": "development/template-creation.html",
+          "hash": "OY40PX9DZjj1TfFtsKJC+5+y+PtMDLf+INpudUharsQ="
         }
       },
       "is_incremental": false,
@@ -2008,7 +2032,7 @@
       "output": {
         ".html": {
           "relative_path": "examples/index.html",
-          "hash": "U1MVEl7KDLoQ75BZuPdFd5GUkaKIyChPOgnJMeHs21E="
+          "hash": "2ldGybQBJ8vl1DkmW792LMhWT91m8djXyyN8xAZ+xoY="
         }
       },
       "is_incremental": false,
@@ -2032,7 +2056,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "UWZorcoRmsvxyvDLiAQIzB6+uywkeXD+qo6D28ngXKc="
+          "hash": "sSe5c6q5cv2dTHjQ+lsqzEfqdTuDdakAD+wa5Cb9QHE="
         }
       },
       "is_incremental": false,
@@ -2581,7 +2605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Controllers.html",
-          "hash": "/KQcx8jGg+SipzmMzMiaMi9Mm/hwOXrLMor9s9bG2Bo="
+          "hash": "yTnffl1DZJzbH2t3fK5SEysUsCvFsw+USZ5YVBIxNkw="
         }
       },
       "is_incremental": false,
@@ -2653,7 +2677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Documentation.PrivateApi.html",
-          "hash": "iW8zC6/D4bSB8PRlvjpixru2AQd3BD/vix2C9elQ2C0="
+          "hash": "L+QnnXjLCm9jzNK5q53mgI0LpvzKcVwgr83G5Qkmvw4="
         }
       },
       "is_incremental": false,
@@ -2665,7 +2689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Documentation.PublicApi.html",
-          "hash": "Y0uXGR6rT+cR4Oxkty1IKC5iuMnl2fV6JeEFLS29eZU="
+          "hash": "UEPqqi9RKO5P/9lx2+U20i32cNyjxfIRbDxusWA1W30="
         }
       },
       "is_incremental": false,
@@ -2689,7 +2713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Documentation.html",
-          "hash": "km52uaubL4v54gzWgDwsruWrLzn3eIntLTT4mNkuEBQ="
+          "hash": "aYvf/RV3TJx3SX3F+yi1ya95yTxicWiJUftU/FQKag0="
         }
       },
       "is_incremental": false,
@@ -2725,7 +2749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Enums.html",
-          "hash": "nVdZldBsmy7uEmnB6eNuv5VLuWf/CoQXFhzofq/KI+c="
+          "hash": "4kqlVOe/a8YAXvkBDyTwbv33AfioRn24vpuplqGEBak="
         }
       },
       "is_incremental": false,
@@ -2845,7 +2869,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Extensions.html",
-          "hash": "j1aaqKNWR+nc186XyjX8kNkqFKVkEXaUfIWhyNYIWEw="
+          "hash": "/rr/uNT8sTGmvQOALsWx5WmDuUm8VnD70A+zkXxOjZs="
         }
       },
       "is_incremental": false,
@@ -3301,7 +3325,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Infrastructure.html",
-          "hash": "s1ODsx2LrY/HFgJSAskrCH0Hytfnlo9gERdt3AEmwS4="
+          "hash": "uaXQkhyLFsxhVt+PgC9Xmj8aR8vL/oYmEBDxJCnBQyw="
         }
       },
       "is_incremental": false,
@@ -3853,7 +3877,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Models.html",
-          "hash": "bT0VNyhwyPA6n7UtLe8egsaNmDtp92YvGqvLXDiPL1Y="
+          "hash": "2h4BWUd2xmyKMOFvgHaXSUI3T7PwXItWiKl1ONx4AyA="
         }
       },
       "is_incremental": false,
@@ -3889,7 +3913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Modules.Controls.html",
-          "hash": "515HNwynDyBIck2CLOrQJgmXqPLFMrBQrdBD0jiYXNw="
+          "hash": "IPl7XGAcyNn/P4Y48RPS8bMF/60RatsWlLSGo0NO824="
         }
       },
       "is_incremental": false,
@@ -4009,7 +4033,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Modules.html",
-          "hash": "Hlqvglb/G3aXYtyJmOYAHScIGSvqgs4KkN0nrphsMeQ="
+          "hash": "Lpq0i8mecJmfe5Rxrb0/ziDUdzw6Dia87zKuiEtfD74="
         }
       },
       "is_incremental": false,
@@ -5365,7 +5389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.Services.html",
-          "hash": "FqxVVh/Ju9C9WCw8CXWdtJVbbBva1k3277KkHJ/KXq4="
+          "hash": "7y787Cu5hTjEx1TTDZhtm0LjcWJfXnUDS0bX4lTQpoM="
         }
       },
       "is_incremental": false,
@@ -5977,7 +6001,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Oqtane.html",
-          "hash": "8iJuc7BijAdwRBBo6gSqbbWyMiwR3Olyl648nCT3FQE="
+          "hash": "xCfpQfE34loANMRYRg4r+nmqcyKiYjL4LxPVYd5L56Y="
         }
       },
       "is_incremental": false,
@@ -6001,7 +6025,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/articles.html",
-          "hash": "Xogok+xX0jDtvDK0/7mOVc7PZ3if7kd5UGsfPFHNkLk="
+          "hash": "vrlw22pVineceelw4r90vf7petBYxN0McPhyaDVYpEI="
         }
       },
       "is_incremental": false,
@@ -6101,7 +6125,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/concepts/dll-handling.html",
-          "hash": "UaJxor+CO6zlhynnzkCq6euMdhYs/EgQyq9BwJMS6xU="
+          "hash": "zRcQzbRBxIRCZd+FClSwbnp4w9Pv8rsPhyPtkyUfPD8="
         }
       },
       "is_incremental": false,
@@ -6113,7 +6137,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/concepts/index.html",
-          "hash": "xfPq1EiuXmJwzEQxrRgGpnwc5cFVP9Ph/8KPR3bKAws="
+          "hash": "GrO0y3dYnNKrbU1dqpJLabHqDFalZB8AK56yD+k2vgU="
         }
       },
       "is_incremental": false,
@@ -6125,7 +6149,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/api-menu.html",
-          "hash": "Ku3eDAf8DH62JepW8/vY0xRIdOLxK3VclZlOKsq1XXI="
+          "hash": "E1IVO/X9/hUD/5w+px2olb00VQvs+u7aht54jBHoqUI="
         }
       },
       "is_incremental": false,
@@ -6192,7 +6216,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/build.html",
-          "hash": "yX0UCRGpL21BINq2P6+Ir/l55n7ryKdWphSn4gJu10k="
+          "hash": "ErYkfPc3IhRReEWQzvyZ/YpedRlLWWTvcdOI5P1GizA="
         }
       },
       "is_incremental": false,
@@ -6204,7 +6228,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/code.html",
-          "hash": "wjzHDvuO1JKyyUXst2OhKUJsKVxtUR/dKEQ0lYh1Vcw="
+          "hash": "Yz1WWsQA8QyvCYD1rKo8+lZCB/1FaFUMT35nB1qiRkc="
         }
       },
       "is_incremental": false,
@@ -6216,7 +6240,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/folders.html",
-          "hash": "T9f+E/EzfmZyJQjXPvkFIjIZLaIfBumV2drvwonvwEc="
+          "hash": "NwuxzonbTZ3VWoZ4q0De9zGXZxgEW8150kB8Yx35yYk="
         }
       },
       "is_incremental": false,
@@ -6228,7 +6252,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/how-it-works.html",
-          "hash": "U3qXxbVvG0HGKE1YS0rvqVTXhPsHkExHtwSoeGwre+g="
+          "hash": "/1kVGKns2JXuD+gqwVXoAGCdQgXVpSWsiNXJREzbrkY="
         }
       },
       "is_incremental": false,
@@ -6240,7 +6264,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/index.html",
-          "hash": "Z/zKVpOnDmmwEyIgNMXjQiVTx1vmVx9ORqUisc0CdRs="
+          "hash": "GUZe7N8OvlpvQ+SlMPCGSNpYddzN0hHKghKZReU4tDw="
         }
       },
       "is_incremental": false,
@@ -6252,7 +6276,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/markdown.html",
-          "hash": "J5ybYPN3NGrnvRnbP52lC3roYM1ojge0EAmj9dv0iVQ="
+          "hash": "XsUOxZtEOLB628UN9IpLeljnfUVnrIQA1VQ7M2pzYcA="
         }
       },
       "is_incremental": false,
@@ -6264,7 +6288,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/documentation/run-in-iis.html",
-          "hash": "Qb0/MXWwpZoSFhIJjMdRwPBWucaqb5oDuBqILIMiqyU="
+          "hash": "aWszzDISfXsOuxb0u3f0hRpoxZnCVKdlAj/qvjYawtg="
         }
       },
       "is_incremental": false,
@@ -6276,7 +6300,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/index.html",
-          "hash": "COrE64mpVL1IIuVvT4LRb5qmR+4YiM6fEea0tHuB9GQ="
+          "hash": "i3EmzPlC/2MdlIx5VYCof/ucJZxzuPxpQR/eJAWogIw="
         }
       },
       "is_incremental": false,
@@ -6288,7 +6312,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/intro.html",
-          "hash": "Fh6r6rh2QQq4y8UfN97IMe+K+KIkSBCSbzTviSPte3M="
+          "hash": "nmmG5OmgcTCoKlT7tTdX9RaUER1eia8Ww5NqIHRSTsw="
         }
       },
       "is_incremental": false,
@@ -6312,7 +6336,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/videos.html",
-          "hash": "MDju1e3CHKuO6Uxgmo4q4z4LaNkx/QdRepXqJ2QTaHA="
+          "hash": "ItgyG0q1rpFab5QZAV5IXTjRf1sTpsBn1HDWFQiAlA4="
         }
       },
       "is_incremental": false,
@@ -6324,7 +6348,7 @@
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "vqY0A/77Hn7UH5hTh18U49aIVru5Nyk8dDDxQEYzK1k="
+          "hash": "maQpECWEyt3Ynlh1yrrb3bzoM4fRQdh9x2EZPF7jNhc="
         }
       },
       "is_incremental": false,
@@ -6357,7 +6381,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 75,
+          "total_file_count": 77,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
