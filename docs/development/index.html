@@ -123,6 +123,16 @@ He describes how to extend the module with additional fields by adding more data
 <p>Either of these approaches should work and the differences are minor. Probably in most cases the Module Modification is preferable since you will end up 
 with an external module that can be copied and used by others. The Template Creation approach also creates an external module, but it requires some extra steps. 
 These approaches work well for multiple fields being added for a given customization.</p>
+<h2 id="creating-documentation">Creating Documentation</h2>
+<p>To create this documentation, someone can first compile this documentation on their local computer. Then they can use GIT to post the result to their own github repository using the 
+followng commands.</p>
+<ul>
+<li>git add .</li>
+<li>git commit </li>
+<li>git push</li>
+</ul>
+<p>If someone has an IIS server to host this documentation, they can then pull the code from the github repo with the command &#39;git pull&#39; under the directory where the documentation 
+is hosted. After restarting the IIS server for that wsite, the new documentation should be displayed, perhaps after the cache for the browser has been cleared. </p>
 </article>
           </div>
           

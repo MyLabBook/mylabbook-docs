@@ -21,4 +21,16 @@ Either of these approaches should work and the differences are minor. Probably i
 with an external module that can be copied and used by others. The Template Creation approach also creates an external module, but it requires some extra steps. 
 These approaches work well for multiple fields being added for a given customization.
 
+## Creating Documentation
+
+To create this documentation, someone can first compile this documentation on their local computer. Then they can use GIT to post the result to their own github repository using the 
+followng commands.
+
+* git add .
+* git commit 
+* git push
+
+If someone has an IIS server to host this documentation, they can then pull the code from the github repo with the command 'git pull' under the directory where the documentation 
+is hosted. After restarting the IIS server for that wsite, the new documentation should be displayed, perhaps after the cache for the browser has been cleared. 
+
 

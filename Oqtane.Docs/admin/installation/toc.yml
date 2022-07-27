@@ -3,7 +3,7 @@
   href: index.md
 
 - name: Apache on Ubuntu
-  href: linux-ubuntu.md
+  href: ubuntu-apache.md
 
 - name: IIS on Windows
   href: windows-iis.md
