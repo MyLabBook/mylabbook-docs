@@ -3,7 +3,8 @@
   href: index.md
 
 - name: Installation
-  href: installation/index.md
+  href: installation/toc.yml
+  homepage: installation/index.md
 
 - name: Admin Navigation
   href: admin-navigation/toc.yml
