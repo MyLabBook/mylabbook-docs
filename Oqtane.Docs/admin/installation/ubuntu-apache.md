@@ -8,12 +8,12 @@ This description is for installation of MyLabBook on the Ubuntu 22.04 operation 
 
 The steps of installation are listed below. 
 
-* **[InstallUbuntu](install-ubuntu)** 
-* **[Install Apache](install-apache)**  
-* **[Install the .NET framework](install-dot-net)**  
-* **[Install MyLabBook](install-mylabbook)** 
-* **[Configure Apache](configure-mylabbook)**  
-* **[Run MyLabBook](run-mylabbook)** 
+* **[InstallUbuntu]()** 
+* **[Install Apache]()**  
+* **[Install the .NET framework]()**  
+* **[Install MyLabBook]()** 
+* **[Configure Apache]()**  
+* **[Run MyLabBook]()** 
 
 
 ## Install Ubuntu

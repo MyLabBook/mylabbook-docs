@@ -11,3 +11,4 @@ Since MyLabBook is a new ELN platform and it is built on the [Oqtane framework](
 * [BlazorHelpWebsite.com: Installing Blazor Oqtane](https://blazorhelpwebsite.com/ViewBlogPost/1)
 * [BlazorHelpWebsite.com: Oqtane Module Creator](https://blazorhelpwebsite.com/ViewBlogPost/4)
 * [BlazorHelpWebsite.com: What is Blazor Oqtane?](https://blazorhelpwebsite.com/ViewBlogPost/16)
+* [BlazorHelpWebsite.com: Using Radzen in Oqtane Modules](https://blazorhelpwebsite.com/ViewBlogPost/46)

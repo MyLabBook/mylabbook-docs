@@ -1877,7 +1877,7 @@
   "overview/articles.html": {
     "href": "overview/articles.html",
     "title": "MyLabBook Related Articles | MyLabBook Docs - APIs and more for the Modular MyLabBook ELN",
-    "keywords": "MyLabBook Related Articles Since MyLabBook is a new ELN platform and it is built on the Oqtane framework , then most of these articles are references to the Oqtane framework. BlazorHelpWebsite.com: Configuring The Blazor Oqtane Blog Module BlazorHelpWebsite.com: Creating a Custom Distribution of Blazor Oqtane Using Site Templates BlazorHelpWebsite.com: Oqtane Deploy to Azure BlazorHelpWebsite.com: Installing Blazor Oqtane BlazorHelpWebsite.com: Oqtane Module Creator BlazorHelpWebsite.com: What is Blazor Oqtane?"
+    "keywords": "MyLabBook Related Articles Since MyLabBook is a new ELN platform and it is built on the Oqtane framework , then most of these articles are references to the Oqtane framework. BlazorHelpWebsite.com: Configuring The Blazor Oqtane Blog Module BlazorHelpWebsite.com: Creating a Custom Distribution of Blazor Oqtane Using Site Templates BlazorHelpWebsite.com: Oqtane Deploy to Azure BlazorHelpWebsite.com: Installing Blazor Oqtane BlazorHelpWebsite.com: Oqtane Module Creator BlazorHelpWebsite.com: What is Blazor Oqtane? BlazorHelpWebsite.com: Using Radzen in Oqtane Modules"
   },
   "overview/concepts/dll-handling.html": {
     "href": "overview/concepts/dll-handling.html",

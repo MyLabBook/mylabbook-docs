@@ -951,15 +951,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "admin/installation/ubuntu-apache.md",
       "output": {
         ".html": {
           "relative_path": "admin/installation/ubuntu-apache.html",
-          "hash": "us+dzHjd54R9uyTBsmu6IhBjKDuM4CIXLQVcnpfCgZ4="
+          "hash": "1B3I37KOLnXrkEt+Y4JGAcbs+cNnvViAFIof1GnHXD4="
         }
       },
       "is_incremental": false,
@@ -5995,7 +5992,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/articles.html",
-          "hash": "INPLLKv+0iAvpwm3ZVywE4FsOI0phlG4Sx7cOQpHz98="
+          "hash": "skDJY+2ZPwWDu999WPwM/xuvVcrAEjJwyq1WyeM0foI="
         }
       },
       "is_incremental": false,
