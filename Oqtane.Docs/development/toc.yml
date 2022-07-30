@@ -2,6 +2,9 @@
 - name: Introduction
   href: index.md
 
+- name: Development References
+  href: development-references.md
+
 - name: Template Creation
   href: template-creation.md
 

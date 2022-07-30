@@ -13,8 +13,6 @@ All videos are on YouTube unless designated otherwise.
   <p>Official Oqtane channel</p>
 * [Oqtane Dev Channel](https://www.youtube.com/channel/UCE2C_4l0EtEAMye7R9DMN1A) 
   <p>Channel with some videos on Oqtane Development</p>
-* [Oqtane Module Development](https://www.youtube.com/watch?v=JPfUZPlRRCE&list=PLYhXmd7yV0elLNLfQwZBUlM7ZSMYPTZ_f) [ 2020 Jul 21 ] 
-  <p>Series of videos on Oqtane Module Development</p>
 
 <hr>
 
@@ -23,7 +21,7 @@ All videos are on YouTube unless designated otherwise.
 * [Azure DevOps Podcast, ep. 179](https://www.youtube.com/watch?v=EWFKTDaALsw)  &nbsp;  [ 2022 Feb 7 ~ 41:46 ]
    <p>Blazor and Oqtane with Shaun Walker</p>
 * [Building dynamic applications with Blazor](https://www.youtube.com/watch?v=Yc84OHgPwLI)  &nbsp;  [ 2021 Jul 10 ~ 2:14:21 ] 
-   <p>Shaun Walker talks about Blazor and gives an overview of Oqtane also</p>
+   <p>Shaun Walker talks about Blazor and also gives an overview of Oqtane</p>
 * [Rockin the Code World with dotNetDave, Ep. 25](https://www.youtube.com/watch?v=ADf67QNd2fE&t=1s)  &nbsp;  [ 2021 May 22 ~ 1:07:57 ]
   <p>Interview with Michael Washington, contributor to Oqtane core and module development</p>
 * [Install Oqtane 2 from Scratch](https://www.youtube.com/watch?v=dOD0gjvlGoc)  &nbsp; [ 2021 May 7 ~ 33:37 ]

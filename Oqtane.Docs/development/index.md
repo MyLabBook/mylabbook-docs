@@ -31,6 +31,6 @@ followng commands.
 * git push
 
 If someone has an IIS server to host this documentation, they can then pull the code from the github repo with the command 'git pull' under the directory where the documentation 
-is hosted. After restarting the IIS server for that wsite, the new documentation should be displayed, perhaps after the cache for the browser has been cleared. 
+is hosted. After restarting the IIS server for that website, the new documentation should be displayed, perhaps after the cache for the browser has been cleared. 
 
 
